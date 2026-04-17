@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS compliance_log (
 
 -- 2. Import the CSV data (This is specific to SQLite)
 .mode csv
-.import 'D:/New Resumes/Latest/Projects/Sanctions Screening Project/Results/final_df.csv' compliance_log
+.import 'D:\New Resumes\Latest\Projects\Sanctions Screening Project\SQL\final_df.csv' compliance_log
 
 -- 3. The Investigator's Query: Pull the critical alerts
 SELECT 
