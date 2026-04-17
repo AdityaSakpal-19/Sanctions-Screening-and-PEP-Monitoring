@@ -1,0 +1,131 @@
+customer_id                 customer_name       country date_of_birth  \
+0    CUS141001  Juann Carlos Montoya Sanchez         Syria    28-08-1990   
+1    CUS141002               Brigitte Macron        France    13-04-1953   
+2    CUS141003                   Ivan Ivanov  Saudi Arabia    22-07-1948   
+3    CUS141004              Svetlana Johnson  Saudi Arabia    31-07-1951   
+4    CUS141005                    Nadia Park         Syria    02-12-1952   
+5    CUS141006                    Amir Nwosu         Japan    09-10-1961   
+6    CUS141007                 Noah Andersen      Ethiopia    18-10-1966   
+7    CUS141008                  Nadia Tanaka       Germany    24-12-1976   
+8    CUS141009                    Chen Silva      Malaysia    21-05-1954   
+9    CUS141010                     Leila Kim         Syria    16-12-1995   
+10   CUS141011   Viktor Georgiyevich Viktoer   South Korea    15-12-2007   
+11   CUS141012               Chloe Fernandez       Germany    15-02-1990   
+12   CUS141013               Aisha Fernandez        France    07-11-1969   
+13   CUS141014                   Yusuf Nwosu         Kenya    03-01-1949   
+14   CUS141015                    Siti Kumar         Italy    05-05-1991   
+15   CUS141016                Amina Kowalski         Ghana    10-10-1970   
+16   CUS141017                    K. Yo-jong   North Korea    26-09-1987   
+17   CUS141018                  Lucas Okafor         Spain    02-12-1948   
+18   CUS141019                    Mei Müller  Saudi Arabia    31-01-2002   
+19   CUS141020                  Kwame Bakshi        Russia    26-01-1988   
+
+    gender                                    address  id_number  \
+0   Female            129 Central Lane, Aleppo, Syria  NU8599392   
+1   Female              930 River Court, Lyon, France  VS9359309   
+2     Male        2 King Avenue, Jeddah, Saudi Arabia  CI1751490   
+3   Female     848 River Street, Jeddah, Saudi Arabia  LZ4036353   
+4   Female             83 King Avenue, Latakia, Syria  WO1029427   
+5     Male             593 Central Way, Nagoya, Japan  QG2554150   
+6     Male    668 River Street, Addis Ababa, Ethiopia  NA4409773   
+7   Female        107 King Boulevard, Berlin, Germany  VQ0831499   
+8     Male      393 King Road, Kuala Lumpur, Malaysia  FX1398926   
+9   Female              443 Oak Court, Latakia, Syria  CQ7701767   
+10    Male          11 King Drive, Seoul, South Korea  AH6100892   
+11  Female        242 Main Street, Frankfurt, Germany  TZ4796342   
+12  Female          106 Central Avenue, Paris, France  AC6426601   
+13    Male              598 Queen Lane, Kisumu, Kenya  TB5749199   
+14  Female           557 Central Street, Milan, Italy  JI8747340   
+15  Female              301 Hill Street, Accra, Ghana  GS5084714   
+16  Female  569 Lake Drive, Capital City, North Korea  DK4580614   
+17    Male         590 Queen Boulevard, Madrid, Spain  VM9154595   
+18  Female       559 King Avenue, Mecca, Saudi Arabia  TR5391387   
+19    Male         443 Park Road, Novosibirsk, Russia  LF1396869   
+
+   customer_type onboarding_date risk_category  \
+0     Individual      15-08-2016          High   
+1     Individual      16-08-2016        Medium   
+2     Individual      19-02-2023           Low   
+3     Individual      02-12-2015        Medium   
+4     Individual      18-12-2024           Low   
+5     Individual      07-09-2015           Low   
+6     Individual      18-09-2021           Low   
+7       Business      07-09-2022           Low   
+8       Business      06-10-2022           Low   
+9     Individual      12-03-2016           Low   
+10      Business      14-03-2020          High   
+11    Individual      30-04-2019           Low   
+12    Individual      10-03-2024           Low   
+13    Individual      28-09-2017           Low   
+14    Individual      08-11-2024           Low   
+15      Business      30-05-2020           Low   
+16    Individual      20-07-2016          High   
+17      Business      25-11-2019           Low   
+18    Individual      31-01-2016           Low   
+19      Business      30-08-2022           Low   
+
+                       matched_name  match_score list_source  \
+0      MONTOYA SANCHEZ, JUAN CARLOS           98   SANCTIONS   
+1                              None           60        None   
+2                              None           73        None   
+3                              None           60        None   
+4                              None           70        None   
+5                              None           67        None   
+6                              None           62        None   
+7                              None           67        None   
+8                              None           67        None   
+9                     KARIMI, LEILA           86   SANCTIONS   
+10  SPIRIDONOV, VIKTOR GEORGIYEVICH           77   SANCTIONS   
+11                             None           67        None   
+12                             None           64        None   
+13                             None           64        None   
+14                             None           73        None   
+15                             None           62        None   
+16                     KIM, YO JONG           90   SANCTIONS   
+17                             None           58        None   
+18                             None           67        None   
+19                             None           65        None   
+
+   matched_sdn_program matched_pep_details screening_risk_level  \
+0                 SDNT                None             CRITICAL   
+1                  NaN                None                  LOW   
+2                  NaN                None                  LOW   
+3                  NaN                None                  LOW   
+4                  NaN                None                  LOW   
+5                  NaN                None                  LOW   
+6                  NaN                None                  LOW   
+7                  NaN                None                  LOW   
+8                  NaN                None                  LOW   
+9           SDGT, IFSR                None                 HIGH   
+10      RUSSIA-EO14024                None               MEDIUM   
+11                 NaN                None                  LOW   
+12                 NaN                None                  LOW   
+13                 NaN                None                  LOW   
+14                 NaN                None                  LOW   
+15                 NaN                None                  LOW   
+16               DPRK2                None                 HIGH   
+17                 NaN                None                  LOW   
+18                 NaN                None                  LOW   
+19                 NaN                None                  LOW   
+
+                    final_decision  
+0   BLOCK - Manual Review Required  
+1                          APPROVE  
+2                          APPROVE  
+3                          APPROVE  
+4                          APPROVE  
+5                          APPROVE  
+6                          APPROVE  
+7                          APPROVE  
+8                          APPROVE  
+9     HOLD - Enhanced Verification  
+10        REVIEW - Secondary Check  
+11                         APPROVE  
+12                         APPROVE  
+13                         APPROVE  
+14                         APPROVE  
+15                         APPROVE  
+16    HOLD - Enhanced Verification  
+17                         APPROVE  
+18                         APPROVE  
+19                         APPROVE

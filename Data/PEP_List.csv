@@ -1,0 +1,501 @@
+﻿pep_id,pep_name,country,pep_type,position,organization,risk_level,date_of_birth,gender,status,start_date,end_date,relative_flag,related_pep_name
+1001,Rajesh Kumar Sharma,India,Domestic,Member of Parliament,Lok Sabha,Medium,15-03-1965,Male,Active,23-05-2019,Present,No,NA
+1002,Priya Mehta,India,Domestic,Cabinet Minister,Government of India,High,22-07-1968,Female,Active,07-07-2021,Present,No,NA
+1003,Vikram Singh Rathore,India,Domestic,Chief Minister,Government of Rajasthan,High,08-11-1962,Male,Active,17-12-2018,Present,No,NA
+1004,Anita Desai,India,Domestic,High Court Judge,Delhi High Court,Medium,30-05-1970,Female,Active,12-08-2016,Present,No,NA
+1005,Arjun Malhotra,India,Relative/Associate,Business Executive,Private Sector,Medium,14-02-1990,Male,Active,07-07-2021,Present,Yes,Priya Mehta
+1006,Sanjay Patel,India,Domestic,Governor,Reserve Bank of India,High,18-09-1963,Male,Former,04-09-2015,03-09-2020,No,NA
+1007,Kavita Iyer,India,Domestic,Member of Parliament,Rajya Sabha,Medium,25-01-1972,Female,Active,03-04-2020,Present,No,NA
+1008,Deepak Reddy,India,Domestic,Secretary,Ministry of Finance,Medium,12-06-1969,Male,Active,15-01-2019,Present,No,NA
+1009,Meera Krishnan,India,Domestic,Mayor,Chennai Municipal Corporation,Low,20-08-1975,Female,Active,10-03-2021,Present,No,NA
+1010,Rohan Nair,India,Domestic,Police Commissioner,Maharashtra Police,Medium,05-12-1967,Male,Active,01-06-2020,Present,No,NA
+1011,Vladimir Petrov,Russia,Foreign,Deputy Prime Minister,Government of Russia,High,17-04-1958,Male,Active,07-05-2012,Present,No,NA
+1012,Natasha Volkova,Russia,Foreign,Member of Parliament,State Duma,Medium,22-10-1971,Female,Active,18-09-2016,Present,No,NA
+1013,Igor Sokolov,Russia,Relative/Associate,Oil Company Executive,Private Sector,High,30-03-1985,Male,Active,07-05-2012,Present,Yes,Vladimir Petrov
+1014,Hassan Al-Rahman,Saudi Arabia,Foreign,Minister of Energy,Government of Saudi Arabia,High,15-07-1960,Male,Active,24-02-2019,Present,No,NA
+1015,Fatima Al-Hashimi,UAE,Foreign,Ambassador,UAE Ministry of Foreign Affairs,Medium,08-11-1973,Female,Active,12-06-2018,Present,No,NA
+1016,Chen Wei,China,Foreign,Provincial Governor,Guangdong Provincial Government,High,20-05-1964,Male,Active,15-11-2017,Present,No,NA
+1017,Li Na,China,Foreign,Vice Minister,Ministry of Commerce,Medium,12-09-1969,Female,Active,22-03-2019,Present,No,NA
+1018,Mohammad Reza Khani,Iran,Foreign,Parliament Member,Islamic Consultative Assembly,Medium,28-02-1966,Male,Active,21-05-2016,Present,No,NA
+1019,Amitabh Verma,India,Domestic,Chief Secretary,Government of Uttar Pradesh,Medium,10-04-1968,Male,Active,15-08-2020,Present,No,NA
+1020,Sunita Kapoor,India,Relative/Associate,Philanthropist,NGO,Medium,18-06-1970,Female,Active,15-08-2020,Present,Yes,Amitabh Verma
+1021,Karan Bhatia,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,22-12-1974,Male,Active,24-10-2019,Present,No,NA
+1022,Pooja Agarwal,India,Domestic,Minister of Education,Government of Karnataka,High,05-03-1971,Female,Active,17-05-2018,Present,No,NA
+1023,Rahul Gupta,India,Domestic,Director General,Central Bureau of Investigation,High,30-08-1966,Male,Active,25-05-2021,Present,No,NA
+1024,Jean-Pierre Dubois,France,Foreign,Senator,French Senate,Medium,14-11-1962,Male,Active,24-09-2017,Present,No,NA
+1025,Maria Garcia,Spain,Foreign,Minister of Health,Government of Spain,High,08-07-1969,Female,Active,13-01-2020,Present,No,NA
+1026,Hans Mueller,Germany,Foreign,State Secretary,Federal Ministry of Finance,Medium,19-05-1970,Male,Active,14-03-2018,Present,No,NA
+1027,Giuseppe Rossi,Italy,Foreign,Mayor,City of Milan,Low,25-09-1972,Male,Active,07-06-2021,Present,No,NA
+1028,Dmitry Ivanov,Russia,Foreign,General,Russian Armed Forces,High,11-02-1963,Male,Active,01-12-2015,Present,No,NA
+1029,Elena Petrova,Russia,Relative/Associate,Attorney,Private Practice,Medium,23-06-1988,Female,Active,01-12-2015,Present,Yes,Dmitry Ivanov
+1030,Ahmed Hassan,Egypt,Foreign,Minister of Interior,Government of Egypt,High,05-10-1961,Male,Active,14-06-2018,Present,No,NA
+1031,Ashok Kumar Singh,India,Domestic,Member of Parliament,Lok Sabha,Medium,20-01-1967,Male,Former,16-05-2014,23-05-2019,No,NA
+1032,Neha Singh,India,Relative/Associate,Doctor,Healthcare,Medium,12-04-1992,Female,Active,16-05-2014,Present,Yes,Ashok Kumar Singh
+1033,Rajiv Malhotra,India,Domestic,Chief Justice,Supreme Court of India,High,30-12-1959,Male,Active,18-11-2019,Present,No,NA
+1034,Sonia Patel,India,Domestic,Additional Secretary,Ministry of External Affairs,Medium,14-08-1973,Female,Active,01-07-2020,Present,No,NA
+1035,Vikas Sharma,India,Domestic,Member of Parliament,Rajya Sabha,Medium,27-11-1970,Male,Active,03-04-2018,Present,No,NA
+1036,Anjali Deshmukh,India,Domestic,Minister of Health,Government of Maharashtra,High,09-05-1966,Female,Active,28-11-2019,Present,No,NA
+1037,Manish Kumar,India,Relative/Associate,Industrialist,Private Sector,High,17-03-1989,Male,Active,28-11-2019,Present,Yes,Anjali Deshmukh
+1038,Boris Fedorov,Russia,Foreign,Regional Governor,Krasnoyarsk Krai Government,High,21-07-1965,Male,Active,10-09-2017,Present,No,NA
+1039,Olga Mikhailova,Russia,Foreign,Deputy Minister,Ministry of Education,Medium,03-12-1972,Female,Active,15-05-2019,Present,No,NA
+1040,Ali Mahmoud,Iraq,Foreign,Member of Parliament,Council of Representatives,Medium,28-08-1968,Male,Active,06-10-2018,Present,No,NA
+1041,Sarah Johnson,United States,Foreign,Senator,US Senate,Medium,16-02-1971,Female,Active,03-01-2019,Present,No,NA
+1042,Robert Williams,United States,Foreign,Ambassador,US Department of State,Medium,09-09-1965,Male,Active,20-01-2021,Present,No,NA
+1043,Mikhail Gregorovich,Belarus,Foreign,Minister of Defense,Government of Belarus,High,23-11-1960,Male,Active,15-08-2016,Present,No,NA
+1044,Tatiana Ivanova,Belarus,Relative/Associate,University Professor,Academia,Medium,07-06-1987,Female,Active,15-08-2016,Present,Yes,Mikhail Gregorovich
+1045,Abdul Rahman,Pakistan,Foreign,Chief Justice,Supreme Court of Pakistan,High,18-04-1962,Male,Active,04-09-2019,Present,No,NA
+1046,Ayesha Khan,Pakistan,Foreign,Member of Parliament,National Assembly,Medium,25-07-1974,Female,Active,11-08-2018,Present,No,NA
+1047,Ravi Shankar,India,Domestic,Chief Minister,Government of Tamil Nadu,High,14-05-1961,Male,Active,07-05-2021,Present,No,NA
+1048,Lakshmi Ravi,India,Relative/Associate,Film Producer,Entertainment,Medium,30-11-1985,Female,Active,07-05-2021,Present,Yes,Ravi Shankar
+1049,Prakash Jha,India,Domestic,Director,Intelligence Bureau,High,22-02-1964,Male,Active,30-06-2020,Present,No,NA
+1050,Nirmala Reddy,India,Domestic,Cabinet Minister,Government of India,High,18-08-1959,Female,Active,30-05-2019,Present,No,NA
+1051,Yuki Tanaka,Japan,Foreign,Minister of Economy,Government of Japan,High,12-03-1966,Male,Active,16-09-2020,Present,No,NA
+1052,Kenji Yamamoto,Japan,Foreign,Member of Parliament,House of Representatives,Medium,27-10-1970,Male,Active,22-10-2017,Present,No,NA
+1053,Park Min-ho,South Korea,Foreign,Minister of Justice,Government of South Korea,High,15-06-1963,Male,Active,09-09-2019,Present,No,NA
+1054,Kim Ji-won,South Korea,Foreign,Member of Parliament,National Assembly,Medium,08-12-1972,Female,Active,15-04-2020,Present,No,NA
+1055,Antonio Silva,Brazil,Foreign,Governor,State of São Paulo,High,29-01-1965,Male,Active,01-01-2019,Present,No,NA
+1056,Carlos Mendes,Brazil,Foreign,Senator,Federal Senate,Medium,04-08-1969,Male,Active,01-02-2018,Present,No,NA
+1057,Suresh Yadav,India,Domestic,Member of Parliament,Lok Sabha,Medium,19-07-1973,Male,Active,23-05-2019,Present,No,NA
+1058,Geeta Yadav,India,Relative/Associate,Social Worker,NGO,Medium,11-09-1975,Female,Active,23-05-2019,Present,Yes,Suresh Yadav
+1059,Anil Joshi,India,Domestic,High Court Judge,Bombay High Court,Medium,05-11-1968,Male,Active,20-04-2017,Present,No,NA
+1060,Ramesh Chand,India,Domestic,Secretary,Ministry of Agriculture,Medium,28-03-1967,Male,Active,01-09-2018,Present,No,NA
+1061,Sneha Pillai,India,Domestic,Member of Parliament,Rajya Sabha,Medium,22-06-1971,Female,Active,03-04-2020,Present,No,NA
+1062,Harish Chandra,India,Domestic,Chief Secretary,Government of Bihar,Medium,15-09-1966,Male,Active,01-07-2019,Present,No,NA
+1063,Divya Chandra,India,Relative/Associate,Entrepreneur,Private Sector,Medium,20-02-1991,Female,Active,01-07-2019,Present,Yes,Harish Chandra
+1064,Naveen Kumar,India,Domestic,Minister of Commerce,Government of India,High,10-12-1964,Male,Active,30-05-2019,Present,No,NA
+1065,Kirill Volkov,Russia,Foreign,Chief Prosecutor,Prosecutor General's Office,High,07-07-1962,Male,Active,11-01-2016,Present,No,NA
+1066,Andrei Smirnov,Russia,Foreign,Deputy Foreign Minister,Ministry of Foreign Affairs,Medium,18-05-1970,Male,Active,21-05-2018,Present,No,NA
+1067,Svetlana Kuznetsova,Russia,Relative/Associate,Museum Director,Cultural Sector,Medium,03-09-1986,Female,Active,11-01-2016,Present,Yes,Kirill Volkov
+1068,Mohammed bin Salman,Saudi Arabia,Foreign,Crown Prince,Government of Saudi Arabia,High,31-08-1985,Male,Active,21-06-2017,Present,No,NA
+1069,Khalid Al-Falih,Saudi Arabia,Foreign,Minister of Investment,Government of Saudi Arabia,High,05-01-1960,Male,Active,24-02-2019,Present,No,NA
+1070,Mustafa Kadhimi,Iraq,Foreign,Prime Minister,Government of Iraq,High,19-04-1967,Male,Former,07-05-2020,27-10-2022,No,NA
+1071,Ibrahim Al-Jaafari,Iraq,Foreign,Former Prime Minister,Government of Iraq,High,25-03-1947,Male,Former,03-05-2005,20-05-2006,No,NA
+1072,Xavier Martin,France,Foreign,Minister of Agriculture,Government of France,High,14-10-1968,Male,Active,06-07-2020,Present,No,NA
+1073,Sophie Laurent,France,Foreign,Member of Parliament,National Assembly,Medium,27-04-1973,Female,Active,18-06-2017,Present,No,NA
+1074,Klaus Schmidt,Germany,Foreign,Minister of Interior,Government of Germany,High,30-11-1961,Male,Active,14-03-2018,Present,No,NA
+1075,Wolfgang Becker,Germany,Foreign,Member of Parliament,Bundestag,Medium,08-06-1969,Male,Active,24-09-2017,Present,No,NA
+1076,Anna Mueller,Germany,Relative/Associate,Journalist,Media,Medium,16-08-1990,Female,Active,14-03-2018,Present,Yes,Klaus Schmidt
+1077,Marco Bianchi,Italy,Foreign,Minister of Economy,Government of Italy,High,19-02-1966,Male,Active,13-02-2021,Present,No,NA
+1078,Lucia Romano,Italy,Foreign,Senator,Italian Senate,Medium,11-07-1972,Female,Active,04-03-2018,Present,No,NA
+1079,Pablo Hernandez,Spain,Foreign,Regional President,Catalonia Government,High,21-09-1964,Male,Active,24-05-2021,Present,No,NA
+1080,Isabel Fernandez,Spain,Foreign,Member of Parliament,Congress of Deputies,Medium,15-12-1970,Female,Active,10-11-2019,Present,No,NA
+1081,Sergey Lavrov,Russia,Foreign,Minister of Foreign Affairs,Government of Russia,High,21-03-1950,Male,Active,09-03-2004,Present,No,NA
+1082,Alexei Navalny,Russia,Foreign,Opposition Leader,Political Party,High,04-06-1976,Male,Former,01-01-2012,17-02-2021,No,NA
+1083,Yulia Navalnaya,Russia,Relative/Associate,Activist,NGO,High,24-07-1976,Female,Active,01-01-2012,Present,Yes,Alexei Navalny
+1084,Gurbanguly Berdimuhamedow,Turkmenistan,Foreign,Former President,Government of Turkmenistan,High,29-06-1957,Male,Former,14-02-2007,19-03-2022,No,NA
+1085,Emomali Rahmon,Tajikistan,Foreign,President,Government of Tajikistan,High,05-10-1952,Male,Active,16-11-1994,Present,No,NA
+1086,Shavkat Mirziyoyev,Uzbekistan,Foreign,President,Government of Uzbekistan,High,24-07-1957,Male,Active,14-12-2016,Present,No,NA
+1087,Alexander Lukashenko,Belarus,Foreign,President,Government of Belarus,High,30-08-1954,Male,Active,20-07-1994,Present,No,NA
+1088,Viktor Lukashenko,Belarus,Relative/Associate,National Security Advisor,Government of Belarus,High,28-11-1975,Male,Active,01-06-2005,Present,Yes,Alexander Lukashenko
+1089,Nicolás Maduro,Venezuela,Foreign,President,Government of Venezuela,High,23-11-1962,Male,Active,05-03-2013,Present,No,NA
+1090,Diosdado Cabello,Venezuela,Foreign,Vice President,United Socialist Party,High,15-04-1963,Male,Active,04-06-2018,Present,No,NA
+1091,Cilia Flores,Venezuela,Relative/Associate,First Lady,Government of Venezuela,High,01-10-1956,Female,Active,05-03-2013,Present,Yes,Nicolás Maduro
+1092,Bashar al-Assad,Syria,Foreign,President,Government of Syria,High,11-09-1965,Male,Active,17-07-2000,Present,No,NA
+1093,Asma al-Assad,Syria,Relative/Associate,First Lady,Government of Syria,High,11-08-1975,Female,Active,10-12-2000,Present,Yes,Bashar al-Assad
+1094,Kim Jong-un,North Korea,Foreign,Supreme Leader,Government of North Korea,High,08-01-1984,Male,Active,17-12-2011,Present,No,NA
+1095,Kim Yo-jong,North Korea,Relative/Associate,Deputy Director,Workers' Party,High,26-09-1987,Female,Active,09-03-2014,Present,Yes,Kim Jong-un
+1096,Ranil Wickremesinghe,Sri Lanka,Foreign,President,Government of Sri Lanka,High,24-03-1949,Male,Active,20-07-2022,Present,No,NA
+1097,Mahinda Rajapaksa,Sri Lanka,Foreign,Former President,Government of Sri Lanka,High,18-11-1945,Male,Former,19-11-2005,09-01-2015,No,NA
+1098,Sheikh Hasina,Bangladesh,Foreign,Prime Minister,Government of Bangladesh,High,28-09-1947,Female,Active,06-01-2009,Present,No,NA
+1099,Sajeeb Wazed,Bangladesh,Relative/Associate,ICT Advisor,Government of Bangladesh,Medium,27-07-1971,Male,Active,06-01-2009,Present,Yes,Sheikh Hasina
+1100,Imran Khan,Pakistan,Foreign,Former Prime Minister,Government of Pakistan,High,05-10-1952,Male,Former,18-08-2018,10-04-2022,No,NA
+1101,Bilawal Bhutto Zardari,Pakistan,Foreign,Minister of Foreign Affairs,Government of Pakistan,High,21-09-1988,Male,Former,27-04-2022,14-08-2023,No,NA
+1102,Asif Ali Zardari,Pakistan,Foreign,President,Government of Pakistan,High,26-07-1955,Male,Active,09-03-2024,Present,No,NA
+1103,Benazir Bhutto,Pakistan,Relative/Associate,Former Prime Minister,Government of Pakistan,High,21-06-1953,Female,Former,02-12-1988,27-12-2007,No,NA
+1104,Hamza Shahbaz,Pakistan,Relative/Associate,Chief Minister,Government of Punjab,High,22-01-1974,Male,Active,30-04-2022,Present,Yes,Asif Ali Zardari
+1105,Recep Tayyip Erdoğan,Turkey,Foreign,President,Government of Turkey,High,26-02-1954,Male,Active,28-08-2014,Present,No,NA
+1106,Emine Erdoğan,Turkey,Relative/Associate,First Lady,Government of Turkey,Medium,16-02-1955,Female,Active,28-08-2014,Present,Yes,Recep Tayyip Erdoğan
+1107,Benjamin Netanyahu,Israel,Foreign,Prime Minister,Government of Israel,High,21-10-1949,Male,Active,29-12-2022,Present,No,NA
+1108,Yair Netanyahu,Israel,Relative/Associate,Media Personality,Private Sector,Medium,12-10-1991,Male,Active,29-12-2022,Present,Yes,Benjamin Netanyahu
+1109,Abdel Fattah el-Sisi,Egypt,Foreign,President,Government of Egypt,High,19-11-1954,Male,Active,08-06-2014,Present,No,NA
+1110,Mostafa Madbouly,Egypt,Foreign,Prime Minister,Government of Egypt,High,28-04-1966,Male,Active,07-06-2018,Present,No,NA
+1111,Xi Jinping,China,Foreign,President,Government of China,High,15-06-1953,Male,Active,14-03-2013,Present,No,NA
+1112,Li Qiang,China,Foreign,Premier,Government of China,High,01-07-1959,Male,Active,11-03-2023,Present,No,NA
+1113,Wang Yi,China,Foreign,Minister of Foreign Affairs,Government of China,High,01-10-1953,Male,Active,16-03-2013,Present,No,NA
+1114,Peng Liyuan,China,Relative/Associate,First Lady,Government of China,Medium,20-11-1962,Female,Active,14-03-2013,Present,Yes,Xi Jinping
+1115,Vladimir Putin,Russia,Foreign,President,Government of Russia,High,07-10-1952,Male,Active,07-05-2012,Present,No,NA
+1116,Dmitry Medvedev,Russia,Foreign,Deputy Chairman,Security Council,High,14-09-1965,Male,Active,16-01-2020,Present,No,NA
+1117,Mikhail Mishustin,Russia,Foreign,Prime Minister,Government of Russia,High,03-03-1966,Male,Active,16-01-2020,Present,No,NA
+1118,Narendra Modi,India,Domestic,Prime Minister,Government of India,High,17-09-1950,Male,Active,26-05-2014,Present,No,NA
+1119,Amit Shah,India,Domestic,Minister of Home Affairs,Government of India,High,22-10-1964,Male,Active,31-05-2019,Present,No,NA
+1120,Rajnath Singh,India,Domestic,Minister of Defence,Government of India,High,10-07-1951,Male,Active,31-05-2019,Present,No,NA
+1121,S. Jaishankar,India,Domestic,Minister of External Affairs,Government of India,High,09-01-1955,Male,Active,31-05-2019,Present,No,NA
+1122,Nirmala Sitharaman,India,Domestic,Minister of Finance,Government of India,High,18-08-1959,Female,Active,31-05-2019,Present,No,NA
+1123,Piyush Goyal,India,Domestic,Minister of Commerce,Government of India,High,13-06-1964,Male,Active,31-05-2019,Present,No,NA
+1124,Nitin Gadkari,India,Domestic,Minister of Road Transport,Government of India,High,27-05-1957,Male,Active,27-05-2014,Present,No,NA
+1125,Smriti Irani,India,Domestic,Minister of Women and Child Development,Government of India,High,23-03-1976,Female,Active,31-05-2019,Present,No,NA
+1126,Dharmendra Pradhan,India,Domestic,Minister of Education,Government of India,High,26-06-1969,Male,Active,08-07-2021,Present,No,NA
+1127,Jyotiraditya Scindia,India,Domestic,Minister of Civil Aviation,Government of India,High,01-01-1971,Male,Active,08-07-2021,Present,No,NA
+1128,Ashwini Vaishnaw,India,Domestic,Minister of Railways,Government of India,High,18-07-1970,Male,Active,08-07-2021,Present,No,NA
+1129,Anurag Thakur,India,Domestic,Minister of Information and Broadcasting,Government of India,High,24-10-1974,Male,Active,08-07-2021,Present,No,NA
+1130,Mansukh Mandaviya,India,Domestic,Minister of Health,Government of India,High,01-06-1972,Male,Active,08-07-2021,Present,No,NA
+1131,Bhupender Yadav,India,Domestic,Minister of Environment,Government of India,High,30-08-1969,Male,Active,08-07-2021,Present,No,NA
+1132,Hardeep Singh Puri,India,Domestic,Minister of Petroleum,Government of India,High,25-11-1952,Male,Active,31-05-2019,Present,No,NA
+1133,Giriraj Singh,India,Domestic,Minister of Rural Development,Government of India,High,05-09-1952,Male,Active,31-05-2019,Present,No,NA
+1134,Kiren Rijiju,India,Domestic,Minister of Earth Sciences,Government of India,High,19-11-1971,Male,Active,08-07-2021,Present,No,NA
+1135,Virendra Kumar,India,Domestic,Minister of Social Justice,Government of India,High,22-06-1952,Male,Active,08-07-2021,Present,No,NA
+1136,Arjun Munda,India,Domestic,Minister of Tribal Affairs,Government of India,High,05-01-1968,Male,Active,31-05-2019,Present,No,NA
+1137,Prahlad Joshi,India,Domestic,Minister of Parliamentary Affairs,Government of India,High,12-04-1954,Male,Active,31-05-2019,Present,No,NA
+1138,Mukhtar Abbas Naqvi,India,Domestic,Former Minister,Government of India,High,15-10-1957,Male,Former,05-07-2016,07-07-2022,No,NA
+1139,Ravi Shankar Prasad,India,Domestic,Former Minister,Government of India,High,30-08-1954,Male,Former,27-05-2014,07-07-2021,No,NA
+1140,Arun Jaitley,India,Domestic,Former Minister of Finance,Government of India,High,28-12-1952,Male,Former,27-05-2014,24-08-2019,No,NA
+1141,Sushma Swaraj,India,Domestic,Former Minister of External Affairs,Government of India,High,14-02-1952,Female,Former,27-05-2014,06-08-2019,No,NA
+1142,Manohar Parrikar,India,Domestic,Former Minister of Defence,Government of India,High,13-12-1955,Male,Former,09-11-2014,17-03-2019,No,NA
+1143,Mamata Banerjee,India,Domestic,Chief Minister,Government of West Bengal,High,05-01-1955,Female,Active,20-05-2011,Present,No,NA
+1144,Yogi Adityanath,India,Domestic,Chief Minister,Government of Uttar Pradesh,High,05-06-1972,Male,Active,19-03-2017,Present,No,NA
+1145,Pinarayi Vijayan,India,Domestic,Chief Minister,Government of Kerala,High,24-05-1945,Male,Active,25-05-2016,Present,No,NA
+1146,M.K. Stalin,India,Domestic,Chief Minister,Government of Tamil Nadu,High,01-03-1953,Male,Active,07-05-2021,Present,No,NA
+1147,Uddhav Thackeray,India,Domestic,Former Chief Minister,Government of Maharashtra,High,27-07-1960,Male,Former,28-11-2019,30-06-2022,No,NA
+1148,Eknath Shinde,India,Domestic,Chief Minister,Government of Maharashtra,High,09-02-1964,Male,Active,30-06-2022,Present,No,NA
+1149,Ashok Gehlot,India,Domestic,Former Chief Minister,Government of Rajasthan,High,03-05-1951,Male,Former,17-12-2018,15-12-2023,No,NA
+1150,Bhupesh Baghel,India,Domestic,Former Chief Minister,Government of Chhattisgarh,High,23-08-1961,Male,Former,17-12-2018,13-12-2023,No,NA
+1151,Naveen Patnaik,India,Domestic,Former Chief Minister,Government of Odisha,High,16-10-1946,Male,Former,05-03-2000,12-06-2024,No,NA
+1152,Pema Khandu,India,Domestic,Chief Minister,Government of Arunachal Pradesh,High,21-08-1979,Male,Active,17-07-2016,Present,No,NA
+1153,N. Biren Singh,India,Domestic,Chief Minister,Government of Manipur,High,01-01-1961,Male,Active,15-03-2017,Present,No,NA
+1154,Neiphiu Rio,India,Domestic,Chief Minister,Government of Nagaland,High,11-11-1950,Male,Active,08-03-2018,Present,No,NA
+1155,Conrad Sangma,India,Domestic,Chief Minister,Government of Meghalaya,High,27-01-1978,Male,Active,06-03-2018,Present,No,NA
+1156,Zoramthanga,India,Domestic,Former Chief Minister,Government of Mizoram,High,13-07-1944,Male,Former,15-12-2018,08-12-2023,No,NA
+1157,Manik Saha,India,Domestic,Chief Minister,Government of Tripura,High,21-01-1954,Male,Active,15-05-2022,Present,No,NA
+1158,Pramod Sawant,India,Domestic,Chief Minister,Government of Goa,High,24-04-1973,Male,Active,19-03-2019,Present,No,NA
+1159,Basavaraj Bommai,India,Domestic,Former Chief Minister,Government of Karnataka,High,28-01-1960,Male,Former,28-07-2021,20-05-2023,No,NA
+1160,Siddaramaiah,India,Domestic,Chief Minister,Government of Karnataka,High,12-08-1948,Male,Active,20-05-2023,Present,No,NA
+1161,Bhagwant Mann,India,Domestic,Chief Minister,Government of Punjab,High,17-10-1973,Male,Active,16-03-2022,Present,No,NA
+1162,Manohar Lal Khattar,India,Domestic,Former Chief Minister,Government of Haryana,High,05-05-1954,Male,Former,26-10-2014,12-03-2024,No,NA
+1163,Nayab Singh Saini,India,Domestic,Chief Minister,Government of Haryana,High,25-09-1970,Male,Active,12-03-2024,Present,No,NA
+1164,Pushkar Singh Dhami,India,Domestic,Chief Minister,Government of Uttarakhand,High,16-09-1975,Male,Active,04-07-2021,Present,No,NA
+1165,Hemant Soren,India,Domestic,Chief Minister,Government of Jharkhand,High,10-08-1975,Male,Active,29-12-2019,Present,No,NA
+1166,Nitish Kumar,India,Domestic,Chief Minister,Government of Bihar,High,01-03-1951,Male,Active,20-11-2015,Present,No,NA
+1167,Shivraj Singh Chouhan,India,Domestic,Former Chief Minister,Government of Madhya Pradesh,High,05-03-1959,Male,Former,29-11-2005,13-12-2023,No,NA
+1168,Mohan Yadav,India,Domestic,Chief Minister,Government of Madhya Pradesh,High,25-09-1963,Male,Active,13-12-2023,Present,No,NA
+1169,Y.S. Jagan Mohan Reddy,India,Domestic,Former Chief Minister,Government of Andhra Pradesh,High,21-12-1972,Male,Former,30-05-2019,12-06-2024,No,NA
+1170,N. Chandrababu Naidu,India,Domestic,Chief Minister,Government of Andhra Pradesh,High,20-04-1950,Male,Active,12-06-2024,Present,No,NA
+1171,K. Chandrashekar Rao,India,Domestic,Former Chief Minister,Government of Telangana,High,17-02-1954,Male,Former,02-06-2014,07-12-2023,No,NA
+1172,Revanth Reddy,India,Domestic,Chief Minister,Government of Telangana,High,08-11-1969,Male,Active,07-12-2023,Present,No,NA
+1173,Sukhvinder Singh Sukhu,India,Domestic,Chief Minister,Government of Himachal Pradesh,High,21-10-1964,Male,Active,11-12-2022,Present,No,NA
+1174,Prem Singh Tamang,India,Domestic,Chief Minister,Government of Sikkim,High,05-02-1968,Male,Active,27-05-2019,Present,No,NA
+1175,Manik Sarkar,India,Domestic,Former Chief Minister,Government of Tripura,High,22-01-1949,Male,Former,11-03-1998,09-03-2018,No,NA
+1176,Devendra Fadnavis,India,Domestic,Deputy Chief Minister,Government of Maharashtra,High,22-07-1970,Male,Active,30-06-2022,Present,No,NA
+1177,Ajit Pawar,India,Domestic,Deputy Chief Minister,Government of Maharashtra,High,22-07-1959,Male,Active,30-06-2022,Present,No,NA
+1178,Tejashwi Yadav,India,Domestic,Deputy Chief Minister,Government of Bihar,High,09-11-1989,Male,Active,20-11-2015,Present,No,NA
+1179,Manish Sisodia,India,Domestic,Former Deputy Chief Minister,Government of Delhi,High,05-01-1972,Male,Former,14-02-2015,26-02-2023,No,NA
+1180,Arvind Kejriwal,India,Domestic,Former Chief Minister,Government of Delhi,High,16-08-1968,Male,Former,14-02-2015,17-09-2024,No,NA
+1181,Atishi Marlena,India,Domestic,Chief Minister,Government of Delhi,High,08-06-1981,Female,Active,21-09-2024,Present,No,NA
+1182,Kailash Vijayvargiya,India,Domestic,National General Secretary,Bharatiya Janata Party,Medium,30-01-1951,Male,Active,01-01-2014,Present,No,NA
+1183,J.P. Nadda,India,Domestic,National President,Bharatiya Janata Party,High,02-12-1960,Male,Active,20-01-2020,Present,No,NA
+1184,Mallikarjun Kharge,India,Domestic,National President,Indian National Congress,High,21-07-1942,Male,Active,26-10-2022,Present,No,NA
+1185,Rahul Gandhi,India,Domestic,Member of Parliament,Lok Sabha,High,19-06-1970,Male,Active,13-05-2004,Present,No,NA
+1186,Priyanka Gandhi Vadra,India,Domestic,Member of Parliament,Lok Sabha,High,12-01-1972,Female,Active,23-11-2024,Present,No,NA
+1187,Robert Vadra,India,Relative/Associate,Businessman,Private Sector,High,18-04-1969,Male,Active,23-11-2024,Present,Yes,Priyanka Gandhi Vadra
+1188,Sonia Gandhi,India,Domestic,Member of Parliament,Rajya Sabha,High,09-12-1946,Female,Active,15-02-2024,Present,No,NA
+1189,Akhilesh Yadav,India,Domestic,Former Chief Minister,Government of Uttar Pradesh,High,01-07-1973,Male,Former,15-03-2012,19-03-2017,No,NA
+1190,Mulayam Singh Yadav,India,Domestic,Former Chief Minister,Government of Uttar Pradesh,High,22-11-1939,Male,Former,29-08-2003,10-10-2012,No,NA
+1191,Mayawati,India,Domestic,Former Chief Minister,Government of Uttar Pradesh,High,15-01-1956,Female,Former,13-05-2007,07-03-2012,No,NA
+1192,Sharad Pawar,India,Domestic,Member of Parliament,Rajya Sabha,High,12-12-1940,Male,Active,03-04-2020,Present,No,NA
+1193,Supriya Sule,India,Relative/Associate,Member of Parliament,Lok Sabha,Medium,30-06-1969,Female,Active,16-05-2009,Present,Yes,Sharad Pawar
+1194,Uddhav Balasaheb Thackeray,India,Domestic,President,Shiv Sena (UBT),High,27-07-1960,Male,Active,23-01-2012,Present,No,NA
+1195,Aaditya Thackeray,India,Relative/Associate,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,13-06-1990,Male,Active,24-10-2019,Present,Yes,Uddhav Balasaheb Thackeray
+1196,Lalu Prasad Yadav,India,Domestic,Former Chief Minister,Government of Bihar,High,11-06-1948,Male,Former,10-03-1990,25-07-1997,No,NA
+1197,Rabri Devi,India,Relative/Associate,Former Chief Minister,Government of Bihar,High,01-01-1956,Female,Former,25-07-1997,07-03-2005,Yes,Lalu Prasad Yadav
+1198,Tejaswi Surya,India,Domestic,Member of Parliament,Lok Sabha,Medium,16-11-1990,Male,Active,23-05-2019,Present,No,NA
+1199,Smriti Zubin Irani,India,Domestic,Former Minister,Government of India,High,23-03-1976,Female,Former,27-05-2014,10-06-2024,No,NA
+1200,Pankaja Munde,India,Domestic,Former Minister,Government of Maharashtra,Medium,26-07-1979,Female,Former,31-10-2014,28-11-2019,No,NA
+1201,Gopinath Munde,India,Relative/Associate,Former Minister,Government of India,High,12-12-1949,Male,Former,27-05-2014,03-06-2014,No,NA
+1202,Praful Patel,India,Domestic,Member of Parliament,Rajya Sabha,High,17-10-1957,Male,Active,03-04-2020,Present,No,NA
+1203,Farooq Abdullah,India,Domestic,Member of Parliament,Lok Sabha,High,21-10-1937,Male,Active,23-05-2019,Present,No,NA
+1204,Omar Abdullah,India,Relative/Associate,Chief Minister,Government of Jammu and Kashmir,High,10-03-1970,Male,Active,16-10-2024,Present,Yes,Farooq Abdullah
+1205,Mehbooba Mufti,India,Domestic,Former Chief Minister,Government of Jammu and Kashmir,High,22-05-1959,Female,Former,04-04-2016,19-06-2018,No,NA
+1206,Iltija Mufti,India,Relative/Associate,Media Advisor,Political Party,Medium,01-10-1987,Female,Active,05-08-2019,Present,Yes,Mehbooba Mufti
+1207,Ghulam Nabi Azad,India,Domestic,Former Minister,Government of India,High,07-03-1949,Male,Former,22-05-2006,26-05-2014,No,NA
+1208,Anand Sharma,India,Domestic,Former Minister,Government of India,Medium,03-03-1953,Male,Former,22-05-2006,26-05-2014,No,NA
+1209,Kapil Sibal,India,Domestic,Former Minister,Government of India,High,08-08-1948,Male,Former,22-05-2004,26-05-2014,No,NA
+1210,P. Chidambaram,India,Domestic,Former Minister of Finance,Government of India,High,16-09-1945,Male,Former,22-05-2004,26-05-2014,No,NA
+1211,Karti Chidambaram,India,Relative/Associate,Member of Parliament,Lok Sabha,Medium,16-11-1971,Male,Active,23-05-2019,Present,Yes,P. Chidambaram
+1212,A. Raja,India,Domestic,Former Minister,Government of India,High,10-07-1963,Male,Former,22-05-2004,02-02-2011,No,NA
+1213,Dayanidhi Maran,India,Domestic,Former Minister,Government of India,Medium,05-03-1966,Male,Former,22-05-2004,13-01-2007,No,NA
+1214,Shashi Tharoor,India,Domestic,Member of Parliament,Lok Sabha,Medium,09-03-1956,Male,Active,16-05-2009,Present,No,NA
+1215,Jairam Ramesh,India,Domestic,Member of Parliament,Rajya Sabha,Medium,09-04-1954,Male,Active,03-04-2008,Present,No,NA
+1216,Sachin Pilot,India,Domestic,Member of Parliament,Lok Sabha,Medium,07-09-1977,Male,Active,23-05-2019,Present,No,NA
+1217,Jyotiraditya M. Scindia,India,Domestic,Former Member of Parliament,Indian National Congress,Medium,01-01-1971,Male,Former,01-03-2002,10-03-2020,No,NA
+1218,Milind Deora,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,04-12-1976,Male,Former,13-05-2004,16-05-2014,No,NA
+1219,Prithviraj Chavan,India,Domestic,Former Chief Minister,Government of Maharashtra,High,17-02-1946,Male,Former,11-11-2010,31-10-2014,No,NA
+1220,Ashok Chavan,India,Domestic,Former Chief Minister,Government of Maharashtra,High,14-12-1958,Male,Former,07-12-2008,09-11-2010,No,NA
+1221,Vilasrao Deshmukh,India,Domestic,Former Chief Minister,Government of Maharashtra,High,26-05-1945,Male,Former,18-10-1999,26-11-2008,No,NA
+1222,Sharad Joshi,India,Domestic,Member of Parliament,Rajya Sabha,Medium,06-11-1972,Male,Active,03-04-2020,Present,No,NA
+1223,Suresh Khanna,India,Domestic,Cabinet Minister,Government of Uttar Pradesh,Medium,15-10-1965,Male,Active,19-03-2017,Present,No,NA
+1224,Keshav Prasad Maurya,India,Domestic,Deputy Chief Minister,Government of Uttar Pradesh,High,07-05-1969,Male,Active,19-03-2017,Present,No,NA
+1225,Brajesh Pathak,India,Domestic,Deputy Chief Minister,Government of Uttar Pradesh,High,01-07-1960,Male,Active,25-03-2022,Present,No,NA
+1226,Satish Mahana,India,Domestic,Speaker,Uttar Pradesh Legislative Assembly,Medium,20-11-1954,Male,Active,25-03-2022,Present,No,NA
+1227,Dinesh Sharma,India,Domestic,Former Deputy Chief Minister,Government of Uttar Pradesh,Medium,01-05-1953,Male,Former,19-03-2017,25-03-2022,No,NA
+1228,Jitin Prasada,India,Domestic,Cabinet Minister,Government of Uttar Pradesh,Medium,14-09-1973,Male,Active,25-03-2022,Present,No,NA
+1229,Azam Khan,India,Domestic,Former Cabinet Minister,Government of Uttar Pradesh,Medium,01-01-1954,Male,Former,15-03-2012,19-03-2017,No,NA
+1230,Swami Prasad Maurya,India,Domestic,Former Cabinet Minister,Government of Uttar Pradesh,Medium,01-06-1954,Male,Former,19-03-2017,14-01-2022,No,NA
+1231,Dara Singh Chauhan,India,Domestic,Former Cabinet Minister,Government of Uttar Pradesh,Medium,15-08-1962,Male,Former,19-03-2017,14-01-2022,No,NA
+1232,Rita Bahuguna Joshi,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,22-07-1949,Female,Former,23-05-2017,23-05-2019,No,NA
+1233,Maneka Gandhi,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,26-08-1956,Female,Former,01-01-1984,23-05-2019,No,NA
+1234,Varun Gandhi,India,Relative/Associate,Member of Parliament,Lok Sabha,Medium,13-03-1980,Male,Active,16-05-2009,Present,Yes,Maneka Gandhi
+1235,Hema Malini,India,Domestic,Member of Parliament,Lok Sabha,Medium,16-10-1948,Female,Active,16-05-2014,Present,No,NA
+1236,Dharmendra Deol,India,Relative/Associate,Former Member of Parliament,Rajya Sabha,Medium,08-12-1935,Male,Former,03-04-2004,02-04-2010,Yes,Hema Malini
+1237,Jaya Bachchan,India,Domestic,Member of Parliament,Rajya Sabha,Medium,09-04-1948,Female,Active,03-07-2012,Present,No,NA
+1238,Amitabh Bachchan,India,Relative/Associate,Actor,Entertainment Industry,Low,11-10-1942,Male,Active,03-07-2012,Present,Yes,Jaya Bachchan
+1239,Rekha Bhardwaj,India,Domestic,Former Member of Parliament,Rajya Sabha,Medium,10-10-1954,Female,Former,03-04-2012,02-04-2018,No,NA
+1240,Kirron Kher,India,Domestic,Member of Parliament,Lok Sabha,Medium,14-06-1952,Female,Active,16-05-2014,Present,No,NA
+1241,Anupam Kher,India,Relative/Associate,Actor,Entertainment Industry,Low,07-03-1955,Male,Active,16-05-2014,Present,Yes,Kirron Kher
+1242,Paresh Rawal,India,Domestic,Member of Parliament,Rajya Sabha,Medium,30-05-1950,Male,Active,03-04-2014,Present,No,NA
+1243,Mithun Chakraborty,India,Domestic,Member of Parliament,Rajya Sabha,Medium,16-06-1950,Male,Active,03-04-2014,Present,No,NA
+1244,Ravi Kishan,India,Domestic,Member of Parliament,Lok Sabha,Medium,17-07-1971,Male,Active,23-05-2019,Present,No,NA
+1245,Manoj Tiwari,India,Domestic,Member of Parliament,Lok Sabha,Medium,01-02-1971,Male,Active,16-05-2014,Present,No,NA
+1246,Gautam Gambhir,India,Domestic,Member of Parliament,Lok Sabha,Medium,14-10-1981,Male,Active,23-05-2019,Present,No,NA
+1247,Mary Kom,India,Domestic,Member of Parliament,Rajya Sabha,Medium,01-03-1983,Female,Active,03-04-2016,Present,No,NA
+1248,P.T. Usha,India,Domestic,Member of Parliament,Rajya Sabha,Medium,27-06-1964,Female,Active,17-07-2022,Present,No,NA
+1249,Navjot Singh Sidhu,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,20-10-1963,Male,Former,13-05-2004,14-06-2017,No,NA
+1250,Harbhajan Singh,India,Domestic,Member of Parliament,Rajya Sabha,Medium,03-07-1980,Male,Active,03-04-2022,Present,No,NA
+1251,Suresh Gopi,India,Domestic,Member of Parliament,Rajya Sabha,Medium,26-06-1958,Male,Active,03-04-2016,Present,No,NA
+1252,Chirag Paswan,India,Domestic,Member of Parliament,Lok Sabha,Medium,31-10-1982,Male,Active,16-05-2014,Present,No,NA
+1253,Ram Vilas Paswan,India,Relative/Associate,Former Minister,Government of India,High,05-07-1946,Male,Former,27-05-2014,08-10-2020,Yes,Chirag Paswan
+1254,Harsimrat Kaur Badal,India,Domestic,Former Minister,Government of India,Medium,25-07-1966,Female,Former,28-05-2009,17-09-2020,No,NA
+1255,Sukhbir Singh Badal,India,Relative/Associate,Former Deputy Chief Minister,Government of Punjab,High,09-07-1962,Male,Former,28-01-2009,16-03-2017,Yes,Harsimrat Kaur Badal
+1256,Parkash Singh Badal,India,Relative/Associate,Former Chief Minister,Government of Punjab,High,08-12-1927,Male,Former,01-03-2007,16-03-2017,Yes,Sukhbir Singh Badal
+1257,Amarinder Singh,India,Domestic,Former Chief Minister,Government of Punjab,High,11-03-1942,Male,Former,26-02-2002,18-09-2021,No,NA
+1258,Charanjit Singh Channi,India,Domestic,Former Chief Minister,Government of Punjab,High,01-09-1963,Male,Former,20-09-2021,16-03-2022,No,NA
+1259,Randeep Singh Surjewala,India,Domestic,Member of Parliament,Rajya Sabha,Medium,12-09-1967,Male,Active,03-04-2022,Present,No,NA
+1260,Kumari Selja,India,Domestic,Former Minister,Government of India,Medium,14-02-1961,Female,Former,22-05-2006,22-05-2009,No,NA
+1261,Bhupinder Singh Hooda,India,Domestic,Former Chief Minister,Government of Haryana,High,15-09-1947,Male,Former,05-03-2005,26-10-2014,No,NA
+1262,Deepender Singh Hooda,India,Relative/Associate,Member of Parliament,Rajya Sabha,Medium,04-01-1978,Male,Active,03-04-2019,Present,Yes,Bhupinder Singh Hooda
+1263,Dushyant Chautala,India,Domestic,Former Deputy Chief Minister,Government of Haryana,Medium,03-04-1988,Male,Former,27-10-2019,12-03-2024,No,NA
+1264,Om Prakash Chautala,India,Relative/Associate,Former Chief Minister,Government of Haryana,High,01-01-1935,Male,Former,24-07-1999,05-03-2005,Yes,Dushyant Chautala
+1265,Ajay Singh Chautala,India,Relative/Associate,Former Member of Parliament,Lok Sabha,Medium,15-02-1961,Male,Former,06-10-1999,13-05-2004,Yes,Om Prakash Chautala
+1266,Abhay Singh Chautala,India,Relative/Associate,Former Member of Legislative Assembly,Haryana Vidhan Sabha,Medium,20-01-1984,Male,Former,21-10-2009,15-10-2014,Yes,Ajay Singh Chautala
+1267,Trivendra Singh Rawat,India,Domestic,Former Chief Minister,Government of Uttarakhand,High,15-09-1960,Male,Former,18-03-2017,09-03-2021,No,NA
+1268,Tirath Singh Rawat,India,Domestic,Former Chief Minister,Government of Uttarakhand,High,14-02-1960,Male,Former,10-03-2021,03-07-2021,No,NA
+1269,Harish Rawat,India,Domestic,Former Chief Minister,Government of Uttarakhand,High,27-04-1948,Male,Former,01-02-2014,18-03-2017,No,NA
+1270,B.C. Khanduri,India,Domestic,Former Chief Minister,Government of Uttarakhand,High,01-10-1934,Male,Former,12-09-2007,18-06-2009,No,NA
+1271,Ramesh Pokhriyal,India,Domestic,Former Minister,Government of India,Medium,15-07-1959,Male,Former,31-05-2019,07-07-2021,No,NA
+1272,Arjun Ram Meghwal,India,Domestic,Minister of Law and Justice,Government of India,High,03-09-1953,Male,Active,10-06-2024,Present,No,NA
+1273,Faggan Singh Kulaste,India,Domestic,Minister of State,Government of India,Medium,01-10-1962,Male,Active,31-05-2019,Present,No,NA
+1274,Rajeev Chandrasekhar,India,Domestic,Former Minister of State,Government of India,Medium,1964-06-31,Male,Former,08-07-2021,10-06-2024,No,NA
+1275,Ajay Bhatt,India,Domestic,Minister of State,Government of India,Medium,15-01-1959,Male,Active,08-07-2021,Present,No,NA
+1276,Meenakshi Lekhi,India,Domestic,Minister of State,Government of India,Medium,14-12-1967,Female,Active,08-07-2021,Present,No,NA
+1277,Rao Inderjit Singh,India,Domestic,Minister of State,Government of India,Medium,22-09-1954,Male,Active,08-07-2021,Present,No,NA
+1278,Nityanand Rai,India,Domestic,Minister of State,Government of India,Medium,15-06-1970,Male,Active,09-09-2019,Present,No,NA
+1279,Arjun Singh,India,Domestic,Former Minister,Government of India,High,05-11-1930,Male,Former,22-05-2004,22-05-2009,No,NA
+1280,Digvijaya Singh,India,Domestic,Former Chief Minister,Government of Madhya Pradesh,High,28-02-1947,Male,Former,08-12-1993,08-12-2003,No,NA
+1281,Kamal Nath,India,Domestic,Former Chief Minister,Government of Madhya Pradesh,High,18-11-1946,Male,Former,17-12-2018,23-03-2020,No,NA
+1282,Nakul Nath,India,Relative/Associate,Former Member of Parliament,Lok Sabha,Medium,22-01-1981,Male,Former,23-05-2019,04-06-2024,Yes,Kamal Nath
+1283,Jyotiraditya Scindia,India,Domestic,Member of Parliament,Rajya Sabha,High,01-01-1971,Male,Active,03-04-2020,Present,No,NA
+1284,Madhavrao Scindia,India,Relative/Associate,Former Minister,Government of India,High,10-03-1945,Male,Former,14-01-1980,30-09-2001,Yes,Jyotiraditya Scindia
+1285,Vasundhara Raje,India,Domestic,Former Chief Minister,Government of Rajasthan,High,08-03-1953,Female,Former,08-12-2003,17-12-2018,No,NA
+1286,Dushyant Singh,India,Relative/Associate,Member of Parliament,Lok Sabha,Medium,10-07-1975,Male,Active,13-05-2004,Present,Yes,Vasundhara Raje
+1287,Sachin Pilot,India,Domestic,Former Deputy Chief Minister,Government of Rajasthan,Medium,07-09-1977,Male,Former,17-12-2018,14-07-2020,No,NA
+1288,Rajesh Pilot,India,Relative/Associate,Former Minister,Government of India,High,10-02-1945,Male,Former,21-06-1991,11-06-2000,Yes,Sachin Pilot
+1289,Raman Singh,India,Domestic,Former Chief Minister,Government of Chhattisgarh,High,15-10-1952,Male,Former,07-12-2003,17-12-2018,No,NA
+1290,T.S. Singh Deo,India,Domestic,Deputy Chief Minister,Government of Chhattisgarh,High,20-06-1969,Male,Active,17-12-2018,Present,No,NA
+1291,Babulal Marandi,India,Domestic,Former Chief Minister,Government of Jharkhand,High,11-01-1958,Male,Former,15-11-2000,18-03-2003,No,NA
+1292,Arjun Munda,India,Domestic,Former Chief Minister,Government of Jharkhand,High,05-01-1968,Male,Former,18-03-2003,08-09-2013,No,NA
+1293,Raghubar Das,India,Domestic,Former Chief Minister,Government of Jharkhand,High,03-05-1955,Male,Former,28-12-2014,29-12-2019,No,NA
+1294,Champai Soren,India,Domestic,Former Chief Minister,Government of Jharkhand,High,15-09-1962,Male,Former,02-02-2024,04-07-2024,No,NA
+1295,Kalpana Soren,India,Relative/Associate,Member of Legislative Assembly,Jharkhand Vidhan Sabha,Medium,21-08-1979,Female,Active,04-06-2024,Present,Yes,Hemant Soren
+1296,Shibu Soren,India,Relative/Associate,Former Chief Minister,Government of Jharkhand,High,11-01-1944,Male,Former,02-03-2005,08-01-2013,Yes,Hemant Soren
+1297,Lalu Prasad,India,Domestic,Former Minister,Government of India,High,11-06-1948,Male,Former,22-05-2004,22-05-2009,No,NA
+1298,Tej Pratap Yadav,India,Relative/Associate,Former Minister,Government of Bihar,Medium,09-10-1989,Male,Former,20-11-2015,16-11-2020,Yes,Lalu Prasad
+1299,Misa Bharti,India,Relative/Associate,Member of Parliament,Rajya Sabha,Medium,01-01-1976,Female,Active,07-07-2016,Present,Yes,Lalu Prasad
+1300,Sushil Kumar Modi,India,Domestic,Former Deputy Chief Minister,Government of Bihar,High,12-11-1952,Male,Former,24-11-2005,16-11-2020,No,NA
+1301,Tarkishore Prasad,India,Domestic,Former Deputy Chief Minister,Government of Bihar,Medium,13-05-1964,Male,Former,16-11-2020,28-01-2024,No,NA
+1302,Renu Devi,India,Domestic,Former Deputy Chief Minister,Government of Bihar,Medium,15-08-1964,Female,Former,16-11-2020,28-01-2024,No,NA
+1303,Samrat Choudhary,India,Domestic,Deputy Chief Minister,Government of Bihar,High,20-11-1979,Male,Active,28-01-2024,Present,No,NA
+1304,Vijay Kumar Sinha,India,Domestic,Deputy Chief Minister,Government of Bihar,High,15-02-1969,Male,Active,28-01-2024,Present,No,NA
+1305,Jitan Ram Manjhi,India,Domestic,Former Chief Minister,Government of Bihar,High,06-10-1944,Male,Former,20-05-2014,20-02-2015,No,NA
+1306,Rabri Devi,India,Domestic,Former Chief Minister,Government of Bihar,High,01-01-1956,Female,Former,25-07-1997,07-03-2005,No,NA
+1307,Naveen Patnaik,India,Domestic,Former Chief Minister,Government of Odisha,High,16-10-1946,Male,Former,05-03-2000,12-06-2024,No,NA
+1308,Mohan Charan Majhi,India,Domestic,Chief Minister,Government of Odisha,High,15-07-1966,Male,Active,12-06-2024,Present,No,NA
+1309,K.V. Singh Deo,India,Domestic,Deputy Chief Minister,Government of Odisha,High,25-10-1964,Male,Active,12-06-2024,Present,No,NA
+1310,Pravati Parida,India,Domestic,Deputy Chief Minister,Government of Odisha,High,08-03-1968,Female,Active,12-06-2024,Present,No,NA
+1311,Manoj Sinha,India,Domestic,Lieutenant Governor,Union Territory of Jammu and Kashmir,High,01-07-1959,Male,Active,05-08-2021,Present,No,NA
+1312,Kiran Bedi,India,Domestic,Former Lieutenant Governor,Union Territory of Puducherry,High,09-06-1949,Female,Former,28-05-2016,16-02-2021,No,NA
+1313,Tamilisai Soundararajan,India,Domestic,Former Governor,State of Tamil Nadu,Medium,20-09-1961,Female,Former,09-09-2021,18-07-2024,No,NA
+1314,R.N. Ravi,India,Domestic,Governor,State of Tamil Nadu,Medium,20-08-1956,Male,Active,18-09-2021,Present,No,NA
+1315,Banwarilal Purohit,India,Domestic,Former Governor,State of Tamil Nadu,Medium,16-05-1940,Male,Former,06-10-2017,09-09-2021,No,NA
+1316,Arif Mohammed Khan,India,Domestic,Governor,State of Kerala,Medium,18-11-1951,Male,Active,06-09-2019,Present,No,NA
+1317,Thawar Chand Gehlot,India,Domestic,Governor,State of Karnataka,Medium,18-05-1948,Male,Active,11-07-2021,Present,No,NA
+1318,Ramesh Bais,India,Domestic,Governor,State of Jharkhand,Medium,02-05-1948,Male,Active,17-07-2024,Present,No,NA
+1319,C.P. Radhakrishnan,India,Domestic,Governor,State of Maharashtra,Medium,29-01-1953,Male,Active,05-07-2023,Present,No,NA
+1320,Kalraj Mishra,India,Domestic,Governor,State of Rajasthan,Medium,01-07-1941,Male,Active,09-09-2019,Present,No,NA
+1321,Anandiben Patel,India,Domestic,Governor,State of Uttar Pradesh,Medium,21-11-1941,Female,Active,29-07-2019,Present,No,NA
+1322,Gulab Chand Kataria,India,Domestic,Governor,State of Punjab,Medium,21-09-1946,Male,Active,26-07-2024,Present,No,NA
+1323,Haribhau Kisanrao Bagde,India,Domestic,Governor,State of Haryana,Medium,28-09-1947,Male,Active,27-07-2024,Present,No,NA
+1324,Lakshman Prasad Acharya,India,Domestic,Governor,State of Sikkim,Medium,22-10-1950,Male,Active,14-06-2024,Present,No,NA
+1325,Ajay Kumar Bhalla,India,Domestic,Governor,State of Manipur,Medium,09-04-1959,Male,Active,03-07-2024,Present,No,NA
+1326,Santosh Kumar Gangwar,India,Domestic,Governor,State of Jharkhand,Medium,21-06-1948,Male,Former,14-07-2023,17-07-2024,No,NA
+1327,Hari Babu Kambhampati,India,Domestic,Governor,State of Mizoram,Medium,15-07-1956,Male,Active,17-10-2021,Present,No,NA
+1328,Kaiwalya Trivikram Parnaik,India,Domestic,Governor,State of Uttarakhand,Medium,18-03-1943,Male,Active,15-07-2024,Present,No,NA
+1329,Vinai Kumar Saxena,India,Domestic,Lieutenant Governor,Union Territory of Delhi,High,25-09-1959,Male,Active,26-05-2022,Present,No,NA
+1330,Anil Baijal,India,Domestic,Former Lieutenant Governor,Union Territory of Delhi,High,01-03-1946,Male,Former,31-12-2016,18-05-2022,No,NA
+1331,Praful Khoda Patel,India,Domestic,Administrator,Union Territory of Lakshadweep,Medium,17-10-1957,Male,Active,05-12-2021,Present,No,NA
+1332,D.K. Shivakumar,India,Domestic,Deputy Chief Minister,Government of Karnataka,High,15-05-1962,Male,Active,20-05-2023,Present,No,NA
+1333,G. Parameshwara,India,Domestic,Former Deputy Chief Minister,Government of Karnataka,Medium,05-09-1951,Male,Former,23-05-2018,26-07-2019,No,NA
+1334,H.D. Kumaraswamy,India,Domestic,Former Chief Minister,Government of Karnataka,High,16-11-1959,Male,Former,03-02-2006,20-05-2023,No,NA
+1335,H.D. Deve Gowda,India,Relative/Associate,Former Prime Minister,Government of India,High,18-05-1933,Male,Former,01-06-1996,21-04-1997,Yes,H.D. Kumaraswamy
+1336,Yediyurappa,India,Domestic,Former Chief Minister,Government of Karnataka,High,27-02-1943,Male,Former,30-05-2008,26-07-2021,No,NA
+1337,B.Y. Vijayendra,India,Relative/Associate,Member of Legislative Assembly,Karnataka Vidhan Sabha,Medium,23-10-1972,Male,Active,03-11-2023,Present,Yes,Yediyurappa
+1338,Ramakrishna Hegde,India,Domestic,Former Chief Minister,Government of Karnataka,High,29-08-1926,Male,Former,10-01-1983,11-04-1994,No,NA
+1339,S.M. Krishna,India,Domestic,Former Minister of External Affairs,Government of India,High,01-05-1932,Male,Former,22-05-2009,26-10-2012,No,NA
+1340,M. Veerappa Moily,India,Domestic,Former Minister,Government of India,Medium,15-03-1940,Male,Former,22-05-2009,26-05-2014,No,NA
+1341,Mallikarjun Kharge,India,Domestic,Former Minister,Government of India,Medium,21-07-1942,Male,Former,28-05-2009,26-05-2014,No,NA
+1342,K.H. Muniyappa,India,Domestic,Member of Parliament,Lok Sabha,Medium,07-08-1952,Male,Active,12-06-1991,Present,No,NA
+1343,Sanjay Nirupam,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,28-12-1960,Male,Former,16-05-2009,16-05-2014,No,NA
+1344,Milind Deora,India,Domestic,Former Member of Parliament,Lok Sabha,Medium,04-12-1976,Male,Former,13-05-2004,16-05-2014,No,NA
+1345,Sushilkumar Shinde,India,Domestic,Former Minister of Home Affairs,Government of India,High,04-09-1941,Male,Former,31-07-2012,26-05-2014,No,NA
+1346,Vilasrao Deshmukh,India,Domestic,Former Minister,Government of India,High,26-05-1945,Male,Former,22-05-2004,14-08-2012,No,NA
+1347,Riteish Deshmukh,India,Relative/Associate,Actor,Entertainment Industry,Low,17-12-1978,Male,Active,22-05-2004,Present,Yes,Vilasrao Deshmukh
+1348,Narayan Rane,India,Domestic,Former Minister,Government of India,Medium,10-04-1952,Male,Former,08-07-2021,10-06-2024,No,NA
+1349,Nilesh Rane,India,Relative/Associate,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,18-10-1978,Male,Active,24-10-2019,Present,Yes,Narayan Rane
+1350,Supriya Sule,India,Domestic,Member of Parliament,Lok Sabha,Medium,30-06-1969,Female,Active,16-05-2009,Present,No,NA
+1351,Rohit Pawar,India,Relative/Associate,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,27-02-1990,Male,Active,24-10-2019,Present,Yes,Sharad Pawar
+1352,Parth Pawar,India,Relative/Associate,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,12-01-1991,Male,Active,24-10-2019,Present,Yes,Ajit Pawar
+1353,Raj Thackeray,India,Domestic,President,Maharashtra Navnirman Sena,Medium,14-06-1968,Male,Active,09-03-2006,Present,No,NA
+1354,Amit Thackeray,India,Relative/Associate,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,13-01-1993,Male,Active,23-11-2024,Present,Yes,Raj Thackeray
+1355,Sanjay Raut,India,Domestic,Member of Parliament,Rajya Sabha,Medium,17-01-1962,Male,Active,18-07-2018,Present,No,NA
+1356,Priyanka Chaturvedi,India,Domestic,Member of Parliament,Rajya Sabha,Medium,26-12-1979,Female,Active,18-07-2019,Present,No,NA
+1357,Anil Desai,India,Domestic,Member of Parliament,Rajya Sabha,Medium,12-06-1952,Male,Active,03-07-2012,Present,No,NA
+1358,Ramdas Athawale,India,Domestic,Minister of State,Government of India,Medium,25-12-1959,Male,Active,05-07-2016,Present,No,NA
+1359,Prakash Ambedkar,India,Domestic,Member of Legislative Council,Maharashtra Vidhan Parishad,Medium,10-05-1954,Male,Active,01-12-2018,Present,No,NA
+1360,Anant Geete,India,Domestic,Former Minister,Government of India,Medium,05-10-1950,Male,Former,27-05-2014,30-05-2019,No,NA
+1361,Suresh Prabhu,India,Domestic,Former Minister,Government of India,High,14-06-1953,Male,Active,09-11-2014,Present,No,NA
+1362,Nitin Raut,India,Domestic,Former Cabinet Minister,Government of Maharashtra,Medium,01-03-1959,Male,Former,28-11-2019,30-06-2022,No,NA
+1363,Balasaheb Thorat,India,Domestic,Former Cabinet Minister,Government of Maharashtra,Medium,03-02-1956,Male,Former,28-11-2019,30-06-2022,No,NA
+1364,Aslam Shaikh,India,Domestic,Former Cabinet Minister,Government of Maharashtra,Medium,20-08-1964,Male,Former,28-11-2019,30-06-2022,No,NA
+1365,Jitendra Awhad,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,03-09-1967,Male,Active,21-10-2009,Present,No,NA
+1366,Dhananjay Munde,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,26-12-1972,Male,Active,30-06-2022,Present,No,NA
+1367,Chhagan Bhujbal,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,15-05-1947,Male,Active,30-06-2022,Present,No,NA
+1368,Dilip Walse Patil,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,28-08-1960,Male,Active,28-11-2019,Present,No,NA
+1369,Jayant Patil,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,23-03-1956,Male,Active,27-02-1990,Present,No,NA
+1370,Ashok Chavan,India,Domestic,Member of Parliament,Rajya Sabha,High,14-12-1958,Male,Active,27-02-2024,Present,No,NA
+1371,Bhai Jagtap,India,Domestic,Member of Parliament,Lok Sabha,Medium,28-07-1963,Male,Active,04-06-2024,Present,No,NA
+1372,Arvind Sawant,India,Domestic,Former Minister,Government of India,Medium,23-03-1951,Male,Former,31-05-2019,11-11-2019,No,NA
+1373,Anil Parab,India,Domestic,Member of Legislative Council,Maharashtra Vidhan Parishad,Medium,17-04-1966,Male,Active,01-06-2018,Present,No,NA
+1374,Subhash Desai,India,Domestic,Former Cabinet Minister,Government of Maharashtra,Medium,22-09-1941,Male,Former,28-11-2019,30-06-2022,No,NA
+1375,Aaditya Thackeray,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,13-06-1990,Male,Active,24-10-2019,Present,No,NA
+1376,Chandrashekhar Bawankule,India,Domestic,Member of Legislative Council,Maharashtra Vidhan Parishad,Medium,20-05-1961,Male,Active,04-07-2022,Present,No,NA
+1377,Girish Mahajan,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,15-11-1964,Male,Active,27-02-1995,Present,No,NA
+1378,Radhakrishna Vikhe Patil,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,23-07-1957,Male,Active,28-11-2019,Present,No,NA
+1379,Chandrakant Patil,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,03-06-1955,Male,Active,21-10-2014,Present,No,NA
+1380,Sudhir Mungantiwar,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,23-09-1962,Male,Active,27-02-1995,Present,No,NA
+1381,Pankaja Munde,India,Domestic,Member of Legislative Council,Maharashtra Vidhan Parishad,Medium,26-07-1979,Female,Active,22-06-2020,Present,No,NA
+1382,Dhananjay Mahadik,India,Domestic,Member of Legislative Council,Maharashtra Vidhan Parishad,Medium,14-08-1973,Male,Active,20-06-2016,Present,No,NA
+1383,Sambhajiraje Chhatrapati,India,Domestic,Member of Parliament,Rajya Sabha,Medium,10-05-1971,Male,Active,17-07-2020,Present,No,NA
+1384,Udayanraje Bhonsle,India,Domestic,Member of Parliament,Lok Sabha,Medium,02-08-1966,Male,Active,21-10-2019,Present,No,NA
+1385,Ranjitsinh Mohite Patil,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,12-10-1960,Male,Active,30-06-2022,Present,No,NA
+1386,Hasan Mushrif,India,Domestic,Cabinet Minister,Government of Maharashtra,Medium,08-07-1955,Male,Active,28-11-2019,Present,No,NA
+1387,Aditya Thackeray,India,Domestic,Member of Legislative Assembly,Maharashtra Vidhan Sabha,Medium,13-06-1990,Male,Active,24-10-2019,Present,No,NA
+1388,Joseph Biden,United States,Foreign,President,Government of United States,High,20-11-1942,Male,Active,20-01-2021,Present,No,NA
+1389,Kamala Harris,United States,Foreign,Vice President,Government of United States,High,20-10-1964,Female,Active,20-01-2021,Present,No,NA
+1390,Antony Blinken,United States,Foreign,Secretary of State,Government of United States,High,16-04-1962,Male,Active,26-01-2021,Present,No,NA
+1391,Lloyd Austin,United States,Foreign,Secretary of Defense,Government of United States,High,08-08-1953,Male,Active,22-01-2021,Present,No,NA
+1392,Janet Yellen,United States,Foreign,Secretary of Treasury,Government of United States,High,13-08-1946,Female,Active,26-01-2021,Present,No,NA
+1393,Merrick Garland,United States,Foreign,Attorney General,Government of United States,High,13-11-1952,Male,Active,11-03-2021,Present,No,NA
+1394,Pete Buttigieg,United States,Foreign,Secretary of Transportation,Government of United States,Medium,19-01-1982,Male,Active,03-02-2021,Present,No,NA
+1395,Alejandro Mayorkas,United States,Foreign,Secretary of Homeland Security,Government of United States,High,24-11-1959,Male,Active,02-02-2021,Present,No,NA
+1396,Xavier Becerra,United States,Foreign,Secretary of Health,Government of United States,Medium,26-01-1958,Male,Active,19-03-2021,Present,No,NA
+1397,Jennifer Granholm,United States,Foreign,Secretary of Energy,Government of United States,Medium,05-02-1959,Female,Active,25-02-2021,Present,No,NA
+1398,Gina Raimondo,United States,Foreign,Secretary of Commerce,Government of United States,Medium,17-05-1971,Female,Active,03-03-2021,Present,No,NA
+1399,Tom Vilsack,United States,Foreign,Secretary of Agriculture,Government of United States,Medium,13-12-1950,Male,Active,24-02-2021,Present,No,NA
+1400,Deb Haaland,United States,Foreign,Secretary of Interior,Government of United States,Medium,02-12-1960,Female,Active,16-03-2021,Present,No,NA
+1401,Miguel Cardona,United States,Foreign,Secretary of Education,Government of United States,Medium,11-07-1975,Male,Active,02-03-2021,Present,No,NA
+1402,Marty Walsh,United States,Foreign,Former Secretary of Labor,Government of United States,Medium,10-04-1967,Male,Former,23-03-2021,11-03-2023,No,NA
+1403,Denis McDonough,United States,Foreign,Secretary of Veterans Affairs,Government of United States,Medium,02-12-1969,Male,Active,09-02-2021,Present,No,NA
+1404,Avril Haines,United States,Foreign,Director of National Intelligence,Government of United States,High,27-08-1969,Female,Active,21-01-2021,Present,No,NA
+1405,Ron Klain,United States,Foreign,Former White House Chief of Staff,Government of United States,High,08-08-1961,Male,Former,20-01-2021,08-02-2023,No,NA
+1406,Jeff Zients,United States,Foreign,White House Chief of Staff,Government of United States,High,12-11-1966,Male,Active,08-02-2023,Present,No,NA
+1407,Jake Sullivan,United States,Foreign,National Security Advisor,Government of United States,High,28-11-1976,Male,Active,20-01-2021,Present,No,NA
+1408,Jen Psaki,United States,Foreign,Former Press Secretary,Government of United States,Medium,01-12-1978,Female,Former,20-01-2021,13-05-2022,No,NA
+1409,Karine Jean-Pierre,United States,Foreign,Press Secretary,Government of United States,Medium,13-08-1974,Female,Active,13-05-2022,Present,No,NA
+1410,John Kerry,United States,Foreign,Former Climate Envoy,Government of United States,High,11-12-1943,Male,Former,20-01-2021,06-03-2024,No,NA
+1411,Nancy Pelosi,United States,Foreign,Former Speaker,US House of Representatives,High,26-03-1940,Female,Former,04-01-2007,03-01-2023,No,NA
+1412,Chuck Schumer,United States,Foreign,Senate Majority Leader,US Senate,High,23-11-1950,Male,Active,20-01-2021,Present,No,NA
+1413,Mitch McConnell,United States,Foreign,Senate Minority Leader,US Senate,High,20-02-1942,Male,Active,20-01-2021,Present,No,NA
+1414,Kevin McCarthy,United States,Foreign,Former Speaker,US House of Representatives,High,26-01-1965,Male,Former,07-01-2023,03-10-2023,No,NA
+1415,Mike Johnson,United States,Foreign,Speaker,US House of Representatives,High,30-01-1972,Male,Active,25-10-2023,Present,No,NA
+1416,Hakeem Jeffries,United States,Foreign,House Minority Leader,US House of Representatives,Medium,04-08-1970,Male,Active,03-01-2023,Present,No,NA
+1417,Adam Schiff,United States,Foreign,Member of Congress,US House of Representatives,Medium,22-06-1960,Male,Active,03-01-2001,Present,No,NA
+1418,Alexandria Ocasio-Cortez,United States,Foreign,Member of Congress,US House of Representatives,Medium,13-10-1989,Female,Active,03-01-2019,Present,No,NA
+1419,Ilhan Omar,United States,Foreign,Member of Congress,US House of Representatives,Medium,04-10-1982,Female,Active,03-01-2019,Present,No,NA
+1420,Rashida Tlaib,United States,Foreign,Member of Congress,US House of Representatives,Medium,24-07-1976,Female,Active,03-01-2019,Present,No,NA
+1421,Bernie Sanders,United States,Foreign,Senator,US Senate,High,08-09-1941,Male,Active,03-01-2007,Present,No,NA
+1422,Elizabeth Warren,United States,Foreign,Senator,US Senate,Medium,22-06-1949,Female,Active,03-01-2013,Present,No,NA
+1423,Ted Cruz,United States,Foreign,Senator,US Senate,Medium,22-12-1970,Male,Active,03-01-2013,Present,No,NA
+1424,Marco Rubio,United States,Foreign,Senator,US Senate,Medium,28-05-1971,Male,Active,05-01-2011,Present,No,NA
+1425,Lindsey Graham,United States,Foreign,Senator,US Senate,Medium,09-07-1955,Male,Active,03-01-2003,Present,No,NA
+1426,Josh Hawley,United States,Foreign,Senator,US Senate,Medium,31-12-1979,Male,Active,03-01-2019,Present,No,NA
+1427,Tom Cotton,United States,Foreign,Senator,US Senate,Medium,13-05-1977,Male,Active,06-01-2015,Present,No,NA
+1428,Mitt Romney,United States,Foreign,Senator,US Senate,Medium,12-03-1947,Male,Active,03-01-2019,Present,No,NA
+1429,Susan Collins,United States,Foreign,Senator,US Senate,Medium,07-12-1952,Female,Active,07-01-1997,Present,No,NA
+1430,Lisa Murkowski,United States,Foreign,Senator,US Senate,Medium,22-05-1957,Female,Active,20-12-2002,Present,No,NA
+1431,Kyrsten Sinema,United States,Foreign,Senator,US Senate,Medium,12-07-1976,Female,Active,03-01-2019,Present,No,NA
+1432,Joe Manchin,United States,Foreign,Former Senator,US Senate,Medium,24-08-1947,Male,Former,15-11-2010,03-01-2024,No,NA
+1433,Cory Booker,United States,Foreign,Senator,US Senate,Medium,27-04-1969,Male,Active,31-10-2013,Present,No,NA
+1434,Kamala Devi Harris,United States,Relative/Associate,Vice President,Government of United States,High,20-10-1964,Female,Active,20-01-2021,Present,Yes,Joseph Biden
+1435,Doug Emhoff,United States,Relative/Associate,Second Gentleman,Government of United States,Medium,13-10-1964,Male,Active,20-01-2021,Present,Yes,Kamala Devi Harris
+1436,Jill Biden,United States,Relative/Associate,First Lady,Government of United States,Medium,03-06-1951,Female,Active,20-01-2021,Present,Yes,Joseph Biden
+1437,Hunter Biden,United States,Relative/Associate,Businessman,Private Sector,High,04-02-1970,Male,Active,20-01-2021,Present,Yes,Joseph Biden
+1438,Emmanuel Macron,France,Foreign,President,Government of France,High,21-12-1977,Male,Active,14-05-2017,Present,No,NA
+1439,Brigitte Macron,France,Relative/Associate,First Lady,Government of France,Medium,13-04-1953,Female,Active,14-05-2017,Present,Yes,Emmanuel Macron
+1440,Élisabeth Borne,France,Foreign,Former Prime Minister,Government of France,High,18-04-1961,Female,Former,16-05-2022,08-01-2024,No,NA
+1441,Gabriel Attal,France,Foreign,Prime Minister,Government of France,High,16-03-1989,Male,Active,09-01-2024,Present,No,NA
+1442,Bruno Le Maire,France,Foreign,Minister of Economy,Government of France,High,15-04-1969,Male,Active,17-05-2017,Present,No,NA
+1443,Gérald Darmanin,France,Foreign,Minister of Interior,Government of France,High,11-10-1982,Male,Active,07-07-2020,Present,No,NA
+1444,Catherine Colonna,France,Foreign,Minister of Foreign Affairs,Government of France,High,16-08-1956,Female,Active,20-05-2022,Present,No,NA
+1445,Sébastien Lecornu,France,Foreign,Minister of Defense,Government of France,High,11-06-1986,Male,Active,20-05-2022,Present,No,NA
+1446,Éric Dupond-Moretti,France,Foreign,Minister of Justice,Government of France,Medium,20-04-1961,Male,Active,07-07-2020,Present,No,NA
+1447,Pap Ndiaye,France,Foreign,Former Minister of Education,Government of France,Medium,25-10-1965,Male,Former,20-05-2022,20-07-2023,No,NA
+1448,Amélie Oudéa-Castéra,France,Foreign,Minister of Education,Government of France,Medium,01-06-1978,Female,Active,20-07-2023,Present,No,NA
+1449,Christophe Béchu,France,Foreign,Minister of Environment,Government of France,Medium,11-06-1974,Male,Active,20-05-2022,Present,No,NA
+1450,Aurore Bergé,France,Foreign,Minister of Solidarity,Government of France,Medium,24-02-1986,Female,Active,11-01-2024,Present,No,NA
+1451,Olaf Scholz,Germany,Foreign,Chancellor,Government of Germany,High,14-06-1958,Male,Active,08-12-2021,Present,No,NA
+1452,Nancy Faeser,Germany,Foreign,Minister of Interior,Government of Germany,High,13-07-1970,Female,Active,08-12-2021,Present,No,NA
+1453,Annalena Baerbock,Germany,Foreign,Minister of Foreign Affairs,Government of Germany,High,15-12-1980,Female,Active,08-12-2021,Present,No,NA
+1454,Boris Pistorius,Germany,Foreign,Minister of Defense,Government of Germany,High,14-03-1960,Male,Active,19-01-2023,Present,No,NA
+1455,Christian Lindner,Germany,Foreign,Minister of Finance,Government of Germany,High,07-01-1979,Male,Active,08-12-2021,Present,No,NA
+1456,Robert Habeck,Germany,Foreign,Vice Chancellor,Government of Germany,High,02-09-1969,Male,Active,08-12-2021,Present,No,NA
+1457,Volker Wissing,Germany,Foreign,Minister of Transport,Government of Germany,Medium,22-02-1970,Male,Active,08-12-2021,Present,No,NA
+1458,Cem Özdemir,Germany,Foreign,Minister of Agriculture,Government of Germany,Medium,21-12-1965,Male,Active,08-12-2021,Present,No,NA
+1459,Lisa Paus,Germany,Foreign,Minister for Family Affairs,Government of Germany,Medium,19-09-1968,Female,Active,25-04-2022,Present,No,NA
+1460,Steffi Lemke,Germany,Foreign,Minister of Environment,Government of Germany,Medium,09-02-1968,Female,Active,08-12-2021,Present,No,NA
+1461,Justin Trudeau,Canada,Foreign,Prime Minister,Government of Canada,High,25-12-1971,Male,Active,04-11-2015,Present,No,NA
+1462,Sophie Grégoire Trudeau,Canada,Relative/Associate,Former Spouse,Private Sector,Medium,24-04-1975,Female,Former,04-11-2015,02-08-2023,Yes,Justin Trudeau
+1463,Chrystia Freeland,Canada,Foreign,Deputy Prime Minister,Government of Canada,High,02-08-1968,Female,Active,20-11-2019,Present,No,NA
+1464,Mélanie Joly,Canada,Foreign,Minister of Foreign Affairs,Government of Canada,High,16-01-1979,Female,Active,26-10-2021,Present,No,NA
+1465,Anita Anand,Canada,Foreign,Minister of Defense,Government of Canada,High,28-05-1967,Female,Active,26-10-2021,Present,No,NA
+1466,Marco Mendicino,Canada,Foreign,Former Minister of Public Safety,Government of Canada,Medium,23-03-1973,Male,Former,26-10-2021,26-07-2023,No,NA
+1467,Dominic LeBlanc,Canada,Foreign,Minister of Public Safety,Government of Canada,Medium,14-12-1967,Male,Active,26-07-2023,Present,No,NA
+1468,Harjit Sajjan,Canada,Foreign,Minister of International Development,Government of Canada,Medium,06-09-1970,Male,Active,26-10-2021,Present,No,NA
+1469,Ahmed Hussen,Canada,Foreign,Minister of Housing,Government of Canada,Medium,18-01-1976,Male,Active,26-10-2021,Present,No,NA
+1470,Steven Guilbeault,Canada,Foreign,Minister of Environment,Government of Canada,Medium,09-06-1970,Male,Active,26-10-2021,Present,No,NA
+1471,Jagmeet Singh,Canada,Foreign,Leader,New Democratic Party,Medium,02-01-1979,Male,Active,01-10-2017,Present,No,NA
+1472,Pierre Poilievre,Canada,Foreign,Leader,Conservative Party,Medium,03-06-1979,Male,Active,10-09-2022,Present,No,NA
+1473,Yves-François Blanchet,Canada,Foreign,Leader,Bloc Québécois,Medium,16-04-1965,Male,Active,17-01-2019,Present,No,NA
+1474,Antonio Guterres,Portugal,International Organization,Secretary-General,United Nations,High,30-04-1949,Male,Active,01-01-2017,Present,No,NA
+1475,Amina Mohammed,Nigeria,International Organization,Deputy Secretary-General,United Nations,High,27-06-1961,Female,Active,01-01-2017,Present,No,NA
+1476,Linda Thomas-Greenfield,United States,International Organization,US Ambassador,United Nations,Medium,23-11-1952,Female,Active,24-02-2021,Present,No,NA
+1477,Vassily Nebenzia,Russia,International Organization,Russian Ambassador,United Nations,Medium,19-12-1958,Male,Active,28-07-2017,Present,No,NA
+1478,Zhang Jun,China,International Organization,Chinese Ambassador,United Nations,Medium,01-10-1957,Male,Active,05-03-2019,Present,No,NA
+1479,Nicolas de Rivière,France,International Organization,French Ambassador,United Nations,Medium,23-05-1961,Male,Active,15-07-2019,Present,No,NA
+1480,Barbara Woodward,United Kingdom,International Organization,UK Ambassador,United Nations,Medium,12-03-1961,Female,Active,06-08-2020,Present,No,NA
+1481,Ruchira Kamboj,India,International Organization,Indian Ambassador,United Nations,Medium,20-08-1961,Female,Active,01-08-2022,Present,No,NA
+1482,Volkan Bozkır,Turkey,International Organization,Former President,UN General Assembly,High,25-11-1950,Male,Former,16-09-2020,14-09-2021,No,NA
+1483,Abdulla Shahid,Maldives,International Organization,Former President,UN General Assembly,High,10-10-1962,Male,Former,14-09-2021,13-09-2022,No,NA
+1484,Csaba Kőrösi,Hungary,International Organization,Former President,UN General Assembly,Medium,05-08-1958,Male,Former,13-09-2022,05-09-2023,No,NA
+1485,Dennis Francis,Trinidad and Tobago,International Organization,President,UN General Assembly,Medium,15-07-1960,Male,Active,05-09-2023,Present,No,NA
+1486,Filippo Grandi,Italy,International Organization,High Commissioner,UN Refugee Agency,High,21-01-1957,Male,Active,01-01-2016,Present,No,NA
+1487,Catherine Russell,United States,International Organization,Executive Director,UNICEF,High,10-05-1960,Female,Active,01-02-2022,Present,No,NA
+1488,Achim Steiner,Germany,International Organization,Administrator,UN Development Programme,High,17-05-1961,Male,Active,19-04-2017,Present,No,NA
+1489,Tedros Adhanom Ghebreyesus,Ethiopia,International Organization,Director-General,World Health Organization,High,03-03-1965,Male,Active,01-07-2017,Present,No,NA
+1490,Kristalina Georgieva,Bulgaria,International Organization,Managing Director,International Monetary Fund,High,13-08-1953,Female,Active,01-10-2019,Present,No,NA
+1491,David Malpass,United States,International Organization,Former President,World Bank,High,08-03-1956,Male,Former,09-04-2019,01-06-2023,No,NA
+1492,Ajay Banga,India,International Organization,President,World Bank,High,10-11-1959,Male,Active,02-06-2023,Present,No,NA
+1493,Ngozi Okonjo-Iweala,Nigeria,International Organization,Director-General,World Trade Organization,High,13-06-1954,Female,Active,01-03-2021,Present,No,NA
+1494,Rafael Grossi,Argentina,International Organization,Director General,International Atomic Energy Agency,High,29-01-1961,Male,Active,03-12-2019,Present,No,NA
+1495,Karim Khan,United Kingdom,International Organization,Chief Prosecutor,International Criminal Court,High,30-03-1970,Male,Active,16-06-2021,Present,No,NA
+1496,Piotr Hofmański,Poland,International Organization,President,International Criminal Court,High,14-04-1956,Male,Active,11-03-2021,Present,No,NA
+1497,Joan Donoghue,United States,International Organization,Former President,International Court of Justice,High,19-09-1952,Female,Former,08-02-2021,05-02-2024,No,NA
+1498,Nawaf Salam,Lebanon,International Organization,President,International Court of Justice,High,15-12-1953,Male,Active,06-02-2024,Present,No,NA
+1499,Fatou Bensouda,Gambia,International Organization,Former Chief Prosecutor,International Criminal Court,High,31-01-1961,Female,Former,15-06-2012,15-06-2021,No,NA
+1500,Abdulqawi Yusuf,Somalia,International Organization,Former President,International Court of Justice,High,15-09-1948,Male,Former,06-02-2018,07-02-2021,No,NA

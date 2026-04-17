@@ -1,0 +1,201 @@
+customer_id,customer_name,country,date_of_birth,gender,address,id_number,customer_type,onboarding_date,risk_category,matched_name,match_score,list_source,matched_sdn_program,matched_pep_details,screening_risk_level,final_decision
+CUS141001,Juann Carlos Montoya Sanchez,Syria,28-08-1990,Female,"129 Central Lane, Aleppo, Syria",NU8599392,Individual,15-08-2016,High,"MONTOYA SANCHEZ, JUAN CARLOS",98,SANCTIONS,SDNT,,CRITICAL,BLOCK - Manual Review Required
+CUS141002,Brigitte Macron,France,13-04-1953,Female,"930 River Court, Lyon, France",VS9359309,Individual,16-08-2016,Medium,None,60,None,,,LOW,APPROVE
+CUS141003,Ivan Ivanov,Saudi Arabia,22-07-1948,Male,"2 King Avenue, Jeddah, Saudi Arabia",CI1751490,Individual,19-02-2023,Low,None,73,None,,,LOW,APPROVE
+CUS141004,Svetlana Johnson,Saudi Arabia,31-07-1951,Female,"848 River Street, Jeddah, Saudi Arabia",LZ4036353,Individual,02-12-2015,Medium,None,60,None,,,LOW,APPROVE
+CUS141005,Nadia Park,Syria,02-12-1952,Female,"83 King Avenue, Latakia, Syria",WO1029427,Individual,18-12-2024,Low,None,70,None,,,LOW,APPROVE
+CUS141006,Amir Nwosu,Japan,09-10-1961,Male,"593 Central Way, Nagoya, Japan",QG2554150,Individual,07-09-2015,Low,None,67,None,,,LOW,APPROVE
+CUS141007,Noah Andersen,Ethiopia,18-10-1966,Male,"668 River Street, Addis Ababa, Ethiopia",NA4409773,Individual,18-09-2021,Low,None,62,None,,,LOW,APPROVE
+CUS141008,Nadia Tanaka,Germany,24-12-1976,Female,"107 King Boulevard, Berlin, Germany",VQ0831499,Business,07-09-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141009,Chen Silva,Malaysia,21-05-1954,Male,"393 King Road, Kuala Lumpur, Malaysia",FX1398926,Business,06-10-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141010,Leila Kim,Syria,16-12-1995,Female,"443 Oak Court, Latakia, Syria",CQ7701767,Individual,12-03-2016,Low,"KARIMI, LEILA",86,SANCTIONS,"SDGT, IFSR",,HIGH,HOLD - Enhanced Verification
+CUS141011,Viktor Georgiyevich Viktoer,South Korea,15-12-2007,Male,"11 King Drive, Seoul, South Korea",AH6100892,Business,14-03-2020,High,"SPIRIDONOV, VIKTOR GEORGIYEVICH",77,SANCTIONS,RUSSIA-EO14024,,MEDIUM,REVIEW - Secondary Check
+CUS141012,Chloe Fernandez,Germany,15-02-1990,Female,"242 Main Street, Frankfurt, Germany",TZ4796342,Individual,30-04-2019,Low,None,67,None,,,LOW,APPROVE
+CUS141013,Aisha Fernandez,France,07-11-1969,Female,"106 Central Avenue, Paris, France",AC6426601,Individual,10-03-2024,Low,None,64,None,,,LOW,APPROVE
+CUS141014,Yusuf Nwosu,Kenya,03-01-1949,Male,"598 Queen Lane, Kisumu, Kenya",TB5749199,Individual,28-09-2017,Low,None,64,None,,,LOW,APPROVE
+CUS141015,Siti Kumar,Italy,05-05-1991,Female,"557 Central Street, Milan, Italy",JI8747340,Individual,08-11-2024,Low,None,73,None,,,LOW,APPROVE
+CUS141016,Amina Kowalski,Ghana,10-10-1970,Female,"301 Hill Street, Accra, Ghana",GS5084714,Business,30-05-2020,Low,None,62,None,,,LOW,APPROVE
+CUS141017,K. Yo-jong,North Korea,26-09-1987,Female,"569 Lake Drive, Capital City, North Korea",DK4580614,Individual,20-07-2016,High,"KIM, YO JONG",90,SANCTIONS,DPRK2,,HIGH,HOLD - Enhanced Verification
+CUS141018,Lucas Okafor,Spain,02-12-1948,Male,"590 Queen Boulevard, Madrid, Spain",VM9154595,Business,25-11-2019,Low,None,58,None,,,LOW,APPROVE
+CUS141019,Mei Müller,Saudi Arabia,31-01-2002,Female,"559 King Avenue, Mecca, Saudi Arabia",TR5391387,Individual,31-01-2016,Low,None,67,None,,,LOW,APPROVE
+CUS141020,Kwame Bakshi,Russia,26-01-1988,Male,"443 Park Road, Novosibirsk, Russia",LF1396869,Business,30-08-2022,Low,None,65,None,,,LOW,APPROVE
+CUS141021,Carlos Kim,Turkey,19-07-1953,Male,"297 Green Way, Izmir, Turkey",WG2027815,Individual,18-07-2023,Low,None,67,None,,,LOW,APPROVE
+CUS141022,James Nguyen,Japan,14-03-1995,Male,"27 King Street, Osaka, Japan",AE9434276,Business,10-11-2023,Low,None,70,None,,,LOW,APPROVE
+CUS141023,Arjun Bakshi,South Korea,03-04-2001,Male,"260 Hill Lane, Incheon, South Korea",YS9048332,Individual,11-02-2018,Low,None,64,None,,,LOW,APPROVE
+CUS141024,Lucas Martinez,Russia,27-11-1980,Male,"53 River Road, Moscow, Russia",ET3836158,Individual,30-07-2018,Low,None,65,None,,,LOW,APPROVE
+CUS141025,Xiaoxun Hu,Nigeria,07-09-1957,Female,"822 Hill Avenue, Lagos, Nigeria",GT6584706,Business,14-09-2024,High,"HU, XIAOXUN",100,SANCTIONS,RUSSIA-EO14024,,CRITICAL,BLOCK - Manual Review Required
+CUS141026,Priya Nguyen,Kenya,28-12-1959,Female,"394 Oak Avenue, Nairobi, Kenya",GA2555292,Individual,22-07-2020,Low,None,57,None,,,LOW,APPROVE
+CUS141027,Chloe Müller,France,05-12-1971,Female,"153 King Lane, Paris, France",PS0114753,Individual,27-07-2017,Low,None,62,None,,,LOW,APPROVE
+CUS141028,Trabelsi Ben Mohamed Chabaane,Nigeria,26-10-1973,Female,"175 Oak Lane, Abuja, Nigeria",WJ0626496,Individual,18-07-2016,High,"TRABELSI, CHABAANE BEN MOHAMED",100,SANCTIONS,SDGT,,CRITICAL,BLOCK - Manual Review Required
+CUS141029,Nicolas Ernesto Maduro Guerra,Nigeria,26-07-1995,Female,"392 Central Boulevard, Abuja, Nigeria",HP6320702,Individual,05-07-2020,High,"MADURO GUERRA, NICOLAS ERNESTO",100,SANCTIONS,VENEZUELA,,CRITICAL,BLOCK - Manual Review Required
+CUS141030,Mei Tanaka,UK,20-06-1970,Female,"825 Main Road, Manchester, UK",GV3293268,Business,15-12-2021,Low,None,64,None,,,LOW,APPROVE
+CUS141031,Tariq Moreira,UAE,31-08-1982,Male,"46 Hill Way, Abu Dhabi, UAE",DO2055259,Individual,30-01-2018,Medium,None,64,None,,,LOW,APPROVE
+CUS141032,Miriam Smith,Egypt,16-05-2003,Female,"465 Central Court, Giza, Egypt",DX3710340,Individual,06-09-2023,Low,None,61,None,,,LOW,APPROVE
+CUS141033,G. Darmanin,France,11-10-1982,Male,"149 Oak Court, Paris, France",BQ2592728,Individual,03-05-2020,High,"DARA, ING",78,SANCTIONS,TCO,,MEDIUM,REVIEW - Secondary Check
+CUS141034,Ahmed Bakshi,Russia,19-05-1998,Male,"296 Lake Avenue, Moscow, Russia",JX6494606,Individual,21-03-2022,Low,"DABBASHI, AHMED",85,SANCTIONS,LIBYA3,,HIGH,HOLD - Enhanced Verification
+CUS141035,Oliver Okafor,France,03-05-1956,Male,"39 Green Boulevard, Lyon, France",CS0437476,Individual,13-02-2017,Low,None,56,None,,,LOW,APPROVE
+CUS141036,Amina Park,Brazil,14-06-1967,Female,"554 Queen Lane, São Paulo, Brazil",OK0869273,Business,28-09-2022,Low,None,71,None,,,LOW,APPROVE
+CUS141037,Ivan Reyes,Syria,07-02-1971,Male,"749 Park Drive, Latakia, Syria",RH8102745,Individual,21-07-2018,Low,IVAN KIREEV,76,SANCTIONS,RUSSIA-EO14024,,MEDIUM,REVIEW - Secondary Check
+CUS141038,Arjun Smith,China,16-03-1970,Male,"420 Central Lane, Shenzhen, China",FX2598608,Individual,30-03-2022,Low,None,63,None,,,LOW,APPROVE
+CUS141039,Hassan Singh,South Korea,19-08-2000,Male,"333 Park Lane, Busan, South Korea",SK6308829,Individual,06-03-2015,Low,None,67,None,,,LOW,APPROVE
+CUS141040,Jiha Jha,India,22-02-1964,Male,"772 King Road, Bangalore, India",KX8576536,Individual,04-07-2020,High,None,67,None,,,LOW,APPROVE
+CUS141041,Felix Chen,France,09-07-1978,Male,"326 Main Court, Paris, France",PZ4771873,Individual,23-10-2022,Low,None,74,None,,,LOW,APPROVE
+CUS141042,Elena Park,India,10-08-1967,Female,"825 River Lane, Chennai, India",OY7402273,Individual,11-02-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141043,Andrei Singh,Japan,03-11-1951,Male,"737 Park Boulevard, Nagoya, Japan",PE1913247,Individual,22-03-2020,Medium,"SHEIN, ANDREY",75,SANCTIONS,UKRAINE-EO13661,,MEDIUM,REVIEW - Secondary Check
+CUS141044,Isabella Andersen,South Africa,21-11-1998,Female,"439 King Boulevard, Johannesburg, South Africa",WH6482420,Individual,15-04-2024,Low,None,60,None,,,LOW,APPROVE
+CUS141045,Maria Alejandrina Salazar Hernandez,Russia,29-04-1980,Male,"705 Oak Court, Novosibirsk, Russia",QU9858625,Individual,07-07-2017,High,"SALAZAR HERNANDEZ, MARIA ALEJANDRINA",100,SANCTIONS,SDNTK,,CRITICAL,BLOCK - Manual Review Required
+CUS141046,Dmitri Rossi,Mexico,27-08-1957,Male,"546 Oak Boulevard, Monterrey, Mexico",EV8218790,Business,29-04-2017,Medium,None,67,None,,,LOW,APPROVE
+CUS141047,Arvind Sawant,India,23-03-1951,Male,"649 Park Boulevard, Chennai, India",HH7079591,Individual,27-04-2023,Medium,None,64,None,,,LOW,APPROVE
+CUS141048,Adaeze Müller,Malaysia,15-03-1948,Female,"176 Queen Court, Penang, Malaysia",FG0469446,Individual,10-06-2019,Low,None,61,None,,,LOW,APPROVE
+CUS141049,Kwame Kowalski,Indonesia,03-07-1954,Male,"213 Oak Way, Jakarta, Indonesia",XF1949454,Business,01-09-2024,Low,None,64,None,,,LOW,APPROVE
+CUS141050,Valentina Singh,Brazil,22-11-1977,Female,"325 Main Lane, Brasília, Brazil",YY7546975,Individual,08-04-2019,Low,None,69,None,,,LOW,APPROVE
+CUS141051,Lucas Garcia,Pakistan,05-04-1953,Male,"217 Oak Boulevard, Islamabad, Pakistan",EP8643164,Individual,05-04-2022,Low,None,64,None,,,LOW,APPROVE
+CUS141052,Elena Okafor,Iran,14-06-2003,Female,"75 River Way, Tabriz, Iran",YM7768920,Individual,14-02-2016,Low,None,67,None,,,LOW,APPROVE
+CUS141053,Gennady Andreyevich Zyuganov,Russia,22-07-2005,Male,"767 Main Lane, Kazan, Russia",ZK3712390,Individual,20-05-2022,High,"ZYUGANOV, GENNADY ANDREYEVICH",100,SANCTIONS,RUSSIA-EO14024,,CRITICAL,BLOCK - Manual Review Required
+CUS141054,Aisha Brown,Bangladesh,03-09-2001,Female,"708 Green Lane, Chittagong, Bangladesh",CD1861041,Individual,11-06-2024,Low,None,64,None,,,LOW,APPROVE
+CUS141055,Dmitri Kowalski,Indonesia,07-05-1947,Male,"968 Queen Way, Jakarta, Indonesia",KR6808537,Business,28-10-2020,Low,None,74,None,,,LOW,APPROVE
+CUS141056,Licoona Lechuga Licona,Italy,17-10-1978,Male,"494 Oak Drive, Rome, Italy",BS8773099,Business,13-03-2024,High,None,64,None,,,LOW,APPROVE
+CUS141057,Grace Park,Mexico,18-11-1999,Female,"57 Oak Boulevard, Monterrey, Mexico",VM4657403,Business,09-09-2024,Low,None,70,None,,,LOW,APPROVE
+CUS141058,Patrick Nwosu,Saudi Arabia,12-01-1982,Male,"475 Green Way, Mecca, Saudi Arabia",DQ1353155,Individual,25-10-2022,Low,"ECOBU, PATRICK",77,SANCTIONS,GLOMAG,,MEDIUM,REVIEW - Secondary Check
+CUS141059,Ana Gabriela Rubio Zea,Canada,24-12-1980,Male,"406 Park Way, Vancouver, Canada",DP8089368,Individual,07-12-2021,High,"RUBIO ZEA, ANA GABRIELA",100,SANCTIONS,ILLICIT-DRUGS-EO14059,,CRITICAL,BLOCK - Manual Review Required
+CUS141060,Alvaraado Leon Alvarado,Syria,25-02-1949,Female,"685 King Court, Damascus, Syria",ZF9590585,Individual,04-02-2024,High,"FEO ALVARADO, ALVEIRO",79,SANCTIONS,SDNTK,,MEDIUM,REVIEW - Secondary Check
+CUS141061,Leila Smith,Japan,09-07-1988,Female,"542 Green Drive, Kyoto, Japan",FY1663158,Individual,26-03-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141062,Felix Silva,Mexico,11-08-1982,Male,"387 Park Way, Puebla, Mexico",AC5639776,Individual,20-06-2015,Low,None,74,None,,,LOW,APPROVE
+CUS141063,Ahmed M. M. Alaqad,Nigeria,06-07-1946,Female,"967 King Lane, Port Harcourt, Nigeria",DD8426379,Business,09-01-2021,High,"ALAQAD, AHMED M. M.",100,SANCTIONS,SDGT,,CRITICAL,BLOCK - Manual Review Required
+CUS141064,Kenji Reyes,China,02-09-1975,Male,"8 Green Boulevard, Shanghai, China",ZV3629713,Business,17-07-2017,Low,None,60,None,,,LOW,APPROVE
+CUS141065,Azim Mionzavi,Ghana,20-04-1948,Female,"435 Lake Boulevard, Kumasi, Ghana",PN7188104,Business,15-06-2015,High,"MONZAVI, AZIM",96,SANCTIONS,"SDGT, IRGC, IFSR",,CRITICAL,BLOCK - Manual Review Required
+CUS141066,Mikhail Gregorovich,Belarus,23-11-1960,Male,"702 Green Lane, Capital City, Belarus",LO7650037,Individual,25-10-2017,High,None,72,None,,,LOW,APPROVE
+CUS141067,Olga Singh,Brazil,13-01-1956,Female,"597 Queen Avenue, Rio de Janeiro, Brazil",MH4176712,Individual,06-01-2021,Low,None,70,None,,,LOW,APPROVE
+CUS141068,Nihat Abdul Niohat Asan,Ghana,03-01-1972,Female,"260 Lake Drive, Tamale, Ghana",OZ8356914,Business,19-11-2020,High,"ASAN, NIHAT ABDUL KADIR",80,SANCTIONS,IRAN-HR,,HIGH,REVIEW - Secondary Check
+CUS141069,Maria Wang,Turkey,23-10-1988,Female,"464 Green Road, Istanbul, Turkey",WA6291593,Individual,07-08-2023,Low,None,74,None,,,LOW,APPROVE
+CUS141070,Erken Tuniyaz,Venezuela,09-12-1958,Male,"146 Green Way, Barquisimeto, Venezuela",AC3779171,Individual,30-09-2018,High,"TUNIYAZ, ERKEN",100,SANCTIONS,GLOMAG,,CRITICAL,BLOCK - Manual Review Required
+CUS141071,Nkechi Reyes,Italy,23-07-1955,Female,"919 Central Road, Turin, Italy",MC0394791,Individual,09-04-2020,Low,None,58,None,,,LOW,APPROVE
+CUS141072,Larissa Bakshi,India,22-08-1971,Female,"132 River Road, Delhi, India",GS1703249,Individual,22-07-2019,Low,"BAKHSHI, DARIUSH",76,SANCTIONS,IRAN-HR,,MEDIUM,REVIEW - Secondary Check
+CUS141073,Sofia Chen,Turkey,15-06-2005,Female,"45 Oak Boulevard, Istanbul, Turkey",WF4058657,Individual,09-02-2019,Low,None,67,None,,,LOW,APPROVE
+CUS141074,Hana Brown,Canada,02-07-2007,Female,"403 Lake Drive, Montreal, Canada",YI2139618,Business,28-09-2021,Low,None,62,None,,,LOW,APPROVE
+CUS141075,Yadavv Pratap Yadav,India,09-10-1989,Male,"974 Lake Lane, Mumbai, India",YI4377431,Individual,03-02-2016,Medium,None,54,None,,,LOW,APPROVE
+CUS141076,Sulle Sule,India,30-06-1969,Female,"108 King Drive, Mumbai, India",AF3550634,Individual,10-06-2017,Medium,None,59,None,,,LOW,APPROVE
+CUS141077,Sara Fernandez,China,05-07-1969,Female,"85 Oak Boulevard, Shanghai, China",FF8858915,Individual,03-03-2020,Low,None,69,None,,,LOW,APPROVE
+CUS141078,Dmitri Nwosu,Italy,23-04-1954,Male,"643 Park Boulevard, Naples, Italy",WP7902586,Individual,02-11-2023,Medium,None,72,None,,,LOW,APPROVE
+CUS141079,Nadia Brown,Germany,10-05-2001,Female,"961 King Court, Hamburg, Germany",UY6021947,Individual,29-08-2015,Medium,None,67,None,,,LOW,APPROVE
+CUS141080,Yuki Ito,Italy,08-02-1963,Female,"217 Lake Court, Milan, Italy",AZ6274546,Individual,29-02-2016,Medium,None,62,None,,,LOW,APPROVE
+CUS141081,Ricardo Nwosu,Brazil,18-11-1962,Male,"574 Lake Court, Salvador, Brazil",PI0286840,Individual,12-04-2018,Low,None,62,None,,,LOW,APPROVE
+CUS141082,Rania Moreira,Nigeria,24-08-2003,Female,"501 Hill Way, Kano, Nigeria",GG2988446,Individual,16-06-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141083,Ariel Volfovich,Russia,03-11-1988,Male,"703 King Boulevard, Kazan, Russia",KO2875543,Individual,26-04-2020,High,"VOLFOVICH, ARIEL",100,SANCTIONS,RUSSIA-EO14024,,CRITICAL,BLOCK - Manual Review Required
+CUS141084,Omid Yazdanparast,Syria,06-01-1993,Male,"30 River Court, Latakia, Syria",CB4181347,Business,09-10-2017,High,"YAZDANPARAST, OMID",100,SANCTIONS,SDGT,,CRITICAL,BLOCK - Manual Review Required
+CUS141085,Noah Tanaka,Malaysia,14-07-1961,Male,"943 Park Way, Penang, Malaysia",IF1792526,Individual,02-11-2023,Low,None,64,None,,,LOW,APPROVE
+CUS141086,Diego Ali,Mexico,10-02-1997,Male,"168 River Court, Mexico City, Mexico",TC4902596,Individual,15-06-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141087,Hassan Reyes,UAE,14-06-1962,Male,"273 Main Drive, Dubai, UAE",TC3996429,Business,12-04-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141088,Wei Fernandez,Mexico,14-03-1960,Male,"733 Hill Avenue, Guadalajara, Mexico",ZJ4499650,Individual,03-02-2015,Medium,None,67,None,,,LOW,APPROVE
+CUS141089,Kwame Nwosu,Bangladesh,24-12-2002,Male,"466 Green Drive, Dhaka, Bangladesh",GZ0378240,Individual,03-09-2024,Low,None,56,None,,,LOW,APPROVE
+CUS141090,Sara Fernandez,Spain,29-01-1961,Female,"385 River Avenue, Barcelona, Spain",PK7379241,Individual,16-06-2021,Low,None,69,None,,,LOW,APPROVE
+CUS141091,Fatima Johnson,Brazil,23-01-1992,Female,"344 Green Street, Salvador, Brazil",OK3653375,Individual,08-03-2020,Low,None,67,None,,,LOW,APPROVE
+CUS141092,Yuudayeva Valentinovna Yudayeva,Venezuela,26-04-1990,Female,"547 Hill Street, Barquisimeto, Venezuela",RQ5291006,Business,03-01-2024,High,None,70,None,,,LOW,APPROVE
+CUS141093,Chloe Bakshi,Ethiopia,18-10-1998,Female,"405 River Boulevard, Dire Dawa, Ethiopia",CH3359528,Individual,26-04-2018,Low,None,62,None,,,LOW,APPROVE
+CUS141094,Maria Kumar,South Africa,12-02-1960,Female,"23 Main Drive, Pretoria, South Africa",HO2928561,Individual,01-05-2018,Low,None,67,None,,,LOW,APPROVE
+CUS141095,Kenji Smith,Egypt,20-12-1996,Male,"129 Main Way, Luxor, Egypt",TF8897499,Individual,08-11-2024,Low,None,62,None,,,LOW,APPROVE
+CUS141096,Navjot Singh Sidhu,India,20-10-1963,Male,"926 King Drive, Bangalore, India",AF2608332,Individual,30-04-2021,Medium,None,56,None,,,LOW,APPROVE
+CUS141097,Yuki Ahmed,Italy,26-09-2006,Female,"856 Lake Way, Rome, Italy",OG5816884,Individual,25-08-2018,Low,"YAQUB, AHMED",76,SANCTIONS,SDGT,,MEDIUM,REVIEW - Secondary Check
+CUS141098,Arjun Martinez,Bangladesh,30-05-1965,Male,"426 Queen Boulevard, Sylhet, Bangladesh",MU7127510,Individual,27-09-2023,Low,None,67,None,,,LOW,APPROVE
+CUS141099,Adaeze Müller,Russia,18-08-1953,Female,"834 Central Drive, Saint Petersburg, Russia",VV0930606,Individual,10-04-2023,Low,None,61,None,,,LOW,APPROVE
+CUS141100,Felix Ivanov,Ethiopia,17-10-1993,Male,"762 Hill Avenue, Mekelle, Ethiopia",VV1579428,Individual,31-05-2015,Low,None,62,None,,,LOW,APPROVE
+CUS141101,Nadia Brown,Ethiopia,03-02-1966,Female,"501 Hill Boulevard, Mekelle, Ethiopia",QK5316187,Individual,24-03-2016,Low,None,67,None,,,LOW,APPROVE
+CUS141102,Yusuf Wang,Nigeria,27-02-1992,Male,"519 Green Court, Abuja, Nigeria",CF9356908,Individual,10-04-2023,Low,None,70,None,,,LOW,APPROVE
+CUS141103,Ahmed Singh,Malaysia,03-08-1997,Male,"117 Green Road, Kuala Lumpur, Malaysia",OH5702224,Individual,05-05-2024,Low,None,67,None,,,LOW,APPROVE
+CUS141104,Wei Smith,Malaysia,25-07-1977,Male,"805 Main Road, Penang, Malaysia",CS5504748,Individual,30-12-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141105,Liam Ivanov,Indonesia,03-08-1959,Male,"641 Green Boulevard, Medan, Indonesia",PT1227411,Business,22-05-2016,Low,"IVANOV, TIMUR",78,SANCTIONS,RUSSIA-EO14024,,MEDIUM,REVIEW - Secondary Check
+CUS141106,Ivan Patel,Russia,25-11-1952,Male,"505 Main Boulevard, Moscow, Russia",ON4738233,Individual,16-12-2021,Low,None,67,None,,,LOW,APPROVE
+CUS141107,Yasmin Bakshi,Malaysia,18-07-2004,Female,"795 Lake Lane, Penang, Malaysia",CN3785525,Individual,27-10-2018,Low,None,67,None,,,LOW,APPROVE
+CUS141108,Svetlana Bakshi,Saudi Arabia,16-10-1972,Female,"815 Central Drive, Mecca, Saudi Arabia",XM4413584,Individual,09-03-2017,Low,None,62,None,,,LOW,APPROVE
+CUS141109,Yuki Patel,Germany,16-10-1966,Female,"309 Hill Street, Berlin, Germany",NB1830154,Individual,27-03-2016,Low,None,60,None,,,LOW,APPROVE
+CUS141110,Yusuf Kim,France,13-02-1987,Male,"757 Oak Lane, Lyon, France",LJ6127090,Business,27-03-2024,Medium,"HASHIM, YUSUF",76,SANCTIONS,SDGT,,MEDIUM,REVIEW - Secondary Check
+CUS141111,Oliver Park,Turkey,25-11-1979,Male,"437 King Avenue, Izmir, Turkey",EQ6043720,Business,18-06-2023,Low,None,70,None,,,LOW,APPROVE
+CUS141112,Dmitri Kowalski,Iran,23-08-1974,Male,"628 Queen Street, Mashhad, Iran",LM9431401,Individual,20-04-2020,Low,None,74,None,,,LOW,APPROVE
+CUS141113,Mohammed Nguyen,Syria,15-12-2006,Male,"713 Hill Boulevard, Damascus, Syria",HO2055620,Individual,04-02-2019,Low,"NUR, MOHAMMED",81,SANCTIONS,SDGT,,HIGH,REVIEW - Secondary Check
+CUS141114,Oliver Nwosu,Spain,07-08-2000,Male,"438 Central Drive, Seville, Spain",GO6964748,Business,11-08-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141115,Leila Ahmed,United States,02-04-2007,Female,"62 Lake Way, Los Angeles, United States",NG9564445,Individual,09-07-2019,Low,LADY LEILA,76,SANCTIONS,RUSSIA-EO14024,,MEDIUM,REVIEW - Secondary Check
+CUS141116,Ravi Patel,Russia,12-08-1988,Male,"778 River Road, Saint Petersburg, Russia",VW8850849,Individual,20-11-2024,Low,None,64,None,,,LOW,APPROVE
+CUS141117,Yuki Garcia,Egypt,12-05-1970,Female,"808 Queen Drive, Alexandria, Egypt",CQ8433525,Individual,05-12-2015,Low,None,64,None,,,LOW,APPROVE
+CUS141118,Elena Andersen,Indonesia,12-03-1991,Female,"634 Lake Street, Medan, Indonesia",NN4647786,Individual,11-02-2015,Low,None,62,None,,,LOW,APPROVE
+CUS141119,Patrick Andersen,France,16-04-1969,Male,"799 Main Boulevard, Bordeaux, France",ZC5341556,Individual,17-09-2022,Low,None,62,None,,,LOW,APPROVE
+CUS141120,Viktar Hryhoryavich Halavanau,Venezuela,22-11-1967,Female,"547 Lake Road, Valencia, Venezuela",QL2900602,Individual,20-09-2020,High,"HALAVANAU, VIKTAR HRYHORYAVICH",100,SANCTIONS,BELARUS,,CRITICAL,BLOCK - Manual Review Required
+CUS141121,David Reyes,Brazil,02-01-1996,Male,"74 River Road, São Paulo, Brazil",LG7547132,Individual,06-03-2015,Low,None,67,None,,,LOW,APPROVE
+CUS141122,Leila Moreira,Brazil,19-10-1967,Female,"659 Lake Lane, Salvador, Brazil",WL6775830,Individual,27-08-2024,Low,None,64,None,,,LOW,APPROVE
+CUS141123,Zara Patel,Syria,29-09-1985,Female,"115 Oak Drive, Aleppo, Syria",FC4541879,Individual,02-08-2020,Low,None,70,None,,,LOW,APPROVE
+CUS141124,Andrei Alexandrovich Strizhov,Pakistan,03-11-1972,Male,"487 Central Avenue, Karachi, Pakistan",JE7058486,Individual,23-01-2023,High,"STRIZHOV, ANDREI ALEXANDROVICH",100,SANCTIONS,MAGNIT,,CRITICAL,BLOCK - Manual Review Required
+CUS141125,Grace Ahmed,Brazil,31-03-1985,Female,"697 Main Street, Rio de Janeiro, Brazil",AZ5594471,Individual,29-12-2019,Low,None,73,None,,,LOW,APPROVE
+CUS141126,Hassan Garcia,Egypt,03-12-2004,Male,"694 King Road, Luxor, Egypt",CP7868896,Business,21-07-2022,Low,"ASGARI, HASSAN",85,SANCTIONS,"IRGC, IFSR, IRAN-HR",,HIGH,HOLD - Enhanced Verification
+CUS141127,Kongg Kong,Russia,22-02-1960,Female,"685 Main Boulevard, Saint Petersburg, Russia",AU5738575,Individual,30-04-2021,High,None,71,None,,,LOW,APPROVE
+CUS141128,Amir Patel,Russia,29-05-1971,Male,"171 Central Boulevard, Kazan, Russia",EZ9817059,Individual,31-10-2016,Low,None,67,None,,,LOW,APPROVE
+CUS141129,Grace Garcia,Saudi Arabia,07-05-1950,Female,"451 King Lane, Mecca, Saudi Arabia",FG0760359,Individual,17-03-2021,Low,None,67,None,,,LOW,APPROVE
+CUS141130,Kassem Mohamad Saleh,Syria,01-09-1989,Male,"869 Queen Road, Damascus, Syria",RP9676710,Individual,14-11-2016,High,"SALEH, KASSEM MOHAMAD",100,SANCTIONS,SDNTK,,CRITICAL,BLOCK - Manual Review Required
+CUS141131,Deb Haaland,United States,02-12-1960,Female,"773 River Lane, Miami, United States",JZ3217143,Individual,29-01-2021,Medium,None,64,None,,,LOW,APPROVE
+CUS141132,Ivan Ivanovich Melnikov,France,10-01-1954,Female,"750 Oak Way, Lyon, France",SB2486747,Individual,14-09-2022,High,"MELNIKOV, IVAN IVANOVICH",100,SANCTIONS,RUSSIA-EO14024,,CRITICAL,BLOCK - Manual Review Required
+CUS141133,Tariq Martinez,Kenya,24-09-1962,Male,"615 Main Boulevard, Kisumu, Kenya",IF3559495,Individual,20-11-2019,Low,"AZIZ, TARIQ",75,SANCTIONS,IRAQ2,,MEDIUM,REVIEW - Secondary Check
+CUS141134,Zara Martinez,Indonesia,22-06-1959,Female,"827 Oak Drive, Surabaya, Indonesia",LV4638457,Individual,23-04-2020,Medium,None,71,None,,,LOW,APPROVE
+CUS141135,Tariq Rossi,Russia,26-12-2004,Male,"51 Main Road, Kazan, Russia",ZM4109865,Individual,03-07-2020,Medium,None,67,None,,,LOW,APPROVE
+CUS141136,James Ivanov,Saudi Arabia,12-03-1993,Male,"169 King Drive, Mecca, Saudi Arabia",GT3018967,Individual,21-06-2017,Low,None,67,None,,,LOW,APPROVE
+CUS141137,Dmitri Wang,Indonesia,22-07-1967,Male,"915 Green Boulevard, Medan, Indonesia",BJ4503430,Individual,13-07-2016,Low,None,67,None,,,LOW,APPROVE
+CUS141138,Siti Smith,China,10-04-1949,Female,"421 Queen Way, Shenzhen, China",XX3196003,Individual,07-08-2017,Low,None,59,None,,,LOW,APPROVE
+CUS141139,Armando Martinez Duarte,Iran,21-08-1968,Female,"209 King Court, Tabriz, Iran",FP3823426,Business,16-06-2020,High,"MARTINEZ DUARTE, ARMANDO",100,SANCTIONS,SDNTK,,CRITICAL,BLOCK - Manual Review Required
+CUS141140,James Okafor,Canada,11-04-1949,Male,"299 River Drive, Vancouver, Canada",RC1309000,Business,08-11-2023,Low,None,70,None,,,LOW,APPROVE
+CUS141141,Nkechi Ivanov,Mexico,24-06-1984,Female,"772 Main Avenue, Puebla, Mexico",PP8181562,Individual,11-09-2024,Low,None,65,None,,,LOW,APPROVE
+CUS141142,Felix Kim,Malaysia,01-12-1973,Male,"264 Park Boulevard, Penang, Malaysia",IZ6468004,Individual,25-11-2016,Low,None,64,None,,,LOW,APPROVE
+CUS141143,Ahmed Smith,India,18-03-1965,Male,"22 Queen Avenue, Kolkata, India",SL0349382,Individual,22-01-2021,Low,None,72,None,,,LOW,APPROVE
+CUS141144,Tahir Dalipi,Nigeria,07-03-2003,Female,"277 Oak Lane, Abuja, Nigeria",XQ3914260,Business,23-03-2016,High,"DALIPI, TAHIR",100,SANCTIONS,BALKANS,,CRITICAL,BLOCK - Manual Review Required
+CUS141145,Adaeze Ahmed,Russia,14-04-2008,Female,"925 Main Lane, Moscow, Russia",BI0854743,Individual,17-03-2023,Low,"AGLEEL, AHMED",75,SANCTIONS,SDGT,,MEDIUM,REVIEW - Secondary Check
+CUS141146,Amina Patel,Turkey,14-07-1971,Female,"313 Central Boulevard, Ankara, Turkey",MK0674698,Business,18-05-2015,Low,None,67,None,,,LOW,APPROVE
+CUS141147,Nkechi Martinez,Japan,11-07-2002,Female,"602 Queen Way, Tokyo, Japan",DE5027526,Individual,01-04-2018,Medium,None,60,None,,,LOW,APPROVE
+CUS141148,Wei Patel,Turkey,23-06-1970,Male,"798 Park Way, Istanbul, Turkey",DF9274965,Individual,29-07-2023,Low,None,60,None,,,LOW,APPROVE
+CUS141149,Ricardo Nguyen,Iran,01-11-1972,Male,"339 King Lane, Tabriz, Iran",OP7122332,Business,10-10-2016,Low,None,59,None,,,LOW,APPROVE
+CUS141150,Liam Müller,UK,28-01-1974,Male,"373 Lake Lane, London, UK",MH1889057,Individual,23-12-2021,Low,None,64,None,,,LOW,APPROVE
+CUS141151,Ricardo Wang,Malaysia,13-06-1968,Male,"947 Queen Avenue, Kuala Lumpur, Malaysia",LI9642423,Individual,17-08-2020,Low,"WANG, CHAO",76,SANCTIONS,"NPWMD, IFSR",,MEDIUM,REVIEW - Secondary Check
+CUS141152,Hassan Reyes,United States,27-11-1967,Male,"88 Central Street, Chicago, United States",OU0390323,Individual,07-06-2023,Low,None,67,None,,,LOW,APPROVE
+CUS141153,Mikhail Patel,Canada,02-12-1998,Male,"659 Queen Road, Montreal, Canada",BT9175146,Individual,01-03-2018,Low,None,69,None,,,LOW,APPROVE
+CUS141154,Rania Garcia,Italy,21-05-1959,Female,"201 Central Court, Naples, Italy",IN7686711,Individual,24-06-2024,Medium,None,67,None,,,LOW,APPROVE
+CUS141155,Nadia Silva,Germany,27-02-1996,Female,"996 Main Way, Berlin, Germany",RT7383327,Individual,25-05-2024,Low,None,74,None,,,LOW,APPROVE
+CUS141156,James Garcia,Ghana,04-05-1954,Male,"668 Central Lane, Tamale, Ghana",KU7626549,Individual,04-06-2015,Low,None,67,None,,,LOW,APPROVE
+CUS141157,Alexey Gennadievich Nechaev,Venezuela,15-12-1973,Female,"219 King Avenue, Barquisimeto, Venezuela",SD7454078,Individual,26-08-2015,High,"NECHAEV, ALEXEY GENNADIEVICH",100,SANCTIONS,RUSSIA-EO14024,,CRITICAL,BLOCK - Manual Review Required
+CUS141158,Ayman Sabawi Ibrahim Hasan Al-Tikriti,Malaysia,24-05-1970,Male,"354 Green Court, Penang, Malaysia",ZM7230864,Individual,20-06-2016,High,"AL-TIKRITI, AYMAN SABAWI IBRAHIM HASAN",100,SANCTIONS,IRAQ2,,CRITICAL,BLOCK - Manual Review Required
+CUS141159,Amir Martinez,Russia,27-03-1955,Male,"542 Lake Road, Moscow, Russia",ZE7079984,Individual,28-01-2017,Low,None,69,None,,,LOW,APPROVE
+CUS141160,Kwame Ahmed,Nigeria,04-12-1984,Male,"702 Central Avenue, Kano, Nigeria",CK3136713,Business,02-01-2024,Low,"AHMED, AMEEN",82,SANCTIONS,SDGT,,HIGH,REVIEW - Secondary Check
+CUS141161,Hassan Müller,South Africa,22-09-1965,Male,"137 Central Avenue, Pretoria, South Africa",OK1191090,Business,15-02-2018,Medium,"HASSAN, JAMIL",75,SANCTIONS,PAARSSR-EO13894,,MEDIUM,REVIEW - Secondary Check
+CUS141162,Yuki Andersen,Iran,19-04-1959,Female,"845 Central Street, Mashhad, Iran",AB3318854,Individual,13-11-2017,Low,None,64,None,,,LOW,APPROVE
+CUS141163,Rania Diallo,Nigeria,25-08-2003,Female,"538 Main Court, Kano, Nigeria",FR2230200,Individual,03-04-2022,Low,None,64,None,,,LOW,APPROVE
+CUS141164,Aisha Garcia,Egypt,01-03-1991,Female,"309 River Way, Alexandria, Egypt",YE9571083,Individual,08-01-2017,Low,None,64,None,,,LOW,APPROVE
+CUS141165,Anya Kowalski,Bangladesh,17-07-2000,Female,"442 Oak Boulevard, Chittagong, Bangladesh",BC2915692,Individual,20-09-2018,Low,None,62,None,,,LOW,APPROVE
+CUS141166,Yasmin Silva,Italy,25-03-1995,Female,"982 Queen Boulevard, Turin, Italy",GR8349305,Individual,13-11-2021,Low,None,64,None,,,LOW,APPROVE
+CUS141167,Patrick Andersen,India,09-02-1998,Male,"400 King Street, Kolkata, India",RA0921703,Individual,25-12-2015,Low,None,62,None,,,LOW,APPROVE
+CUS141168,Emmanuel Ahmed,Spain,22-09-1988,Male,"514 Queen Way, Madrid, Spain",UX5057591,Individual,25-03-2020,Low,None,69,None,,,LOW,APPROVE
+CUS141169,Svetlana Fernandez,China,13-11-1972,Female,"342 Hill Way, Guangzhou, China",UW8181736,Individual,19-03-2021,Low,None,68,None,,,LOW,APPROVE
+CUS141170,Cotton Tom,United States,13-05-1977,Male,"974 Hill Boulevard, Los Angeles, United States",VG5271651,Individual,23-07-2018,Medium,None,61,None,,,LOW,APPROVE
+CUS141171,David Singh,Canada,27-08-1995,Male,"635 Main Way, Montreal, Canada",KP9390527,Individual,30-09-2021,Low,None,67,None,,,LOW,APPROVE
+CUS141172,Mohammead Pakpour,Iran,09-12-1958,Female,"210 King Way, Tehran, Iran",AV1667348,Individual,02-08-2023,High,"PAKPOUR, MOHAMMAD",97,SANCTIONS,"SDGT, IRGC, IFSR",,CRITICAL,BLOCK - Manual Review Required
+CUS141173,Samuel Patel,UK,15-08-2002,Male,"131 Main Road, London, UK",ZH7181439,Individual,27-02-2016,Low,None,62,None,,,LOW,APPROVE
+CUS141174,L. Vitalievna Kulinich,Pakistan,02-04-1971,Female,"227 King Way, Peshawar, Pakistan",WD4277643,Business,16-03-2018,High,"KULINICH, LARISA VITALIEVNA",89,SANCTIONS,UKRAINE-EO13660,,HIGH,HOLD - Enhanced Verification
+CUS141175,Miriam Chen,Ghana,25-10-1979,Female,"497 Central Drive, Kumasi, Ghana",GU2102407,Business,13-05-2019,Medium,None,70,None,,,LOW,APPROVE
+CUS141176,Priya Chen,Kenya,15-10-1948,Female,"814 Oak Street, Nairobi, Kenya",NJ4007190,Individual,23-10-2022,Medium,None,74,None,,,LOW,APPROVE
+CUS141177,Isabella Wang,Russia,30-11-2000,Female,"806 King Street, Moscow, Russia",ZR8906915,Individual,02-01-2018,Low,None,69,None,,,LOW,APPROVE
+CUS141178,Lucas Nguyen,India,06-08-1957,Male,"671 Queen Street, Chennai, India",JD7614153,Business,27-11-2024,Low,None,58,None,,,LOW,APPROVE
+CUS141179,B. Mann,India,17-10-1973,Male,"471 Lake Avenue, Kolkata, India",NK4223930,Individual,18-08-2019,High,None,67,None,,,LOW,APPROVE
+CUS141180,Maria Wang,Canada,22-10-1959,Female,"452 Oak Drive, Montreal, Canada",PT2007964,Individual,07-11-2022,Low,None,74,None,,,LOW,APPROVE
+CUS141181,Mohammed Bakshi,Venezuela,13-04-1962,Male,"453 Queen Way, Barquisimeto, Venezuela",GI3734933,Individual,06-09-2021,Low,"BASERI, MOHAMMAD",80,SANCTIONS,IRAN-HR,,HIGH,REVIEW - Secondary Check
+CUS141182,Diego Andersen,Nigeria,12-05-2006,Male,"964 River Drive, Lagos, Nigeria",RX6340684,Individual,19-07-2017,Low,None,64,None,,,LOW,APPROVE
+CUS141183,Valentina Andersen,Syria,05-12-2006,Female,"401 Queen Avenue, Aleppo, Syria",OV5444240,Individual,16-11-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141184,David Nwosu,Saudi Arabia,06-05-1947,Male,"203 Lake Road, Mecca, Saudi Arabia",XF1685536,Business,07-06-2016,Low,None,61,None,,,LOW,APPROVE
+CUS141185,Julia Wang,Malaysia,29-04-1989,Female,"713 Park Street, Kuala Lumpur, Malaysia",ST2462760,Individual,24-10-2023,Low,None,74,None,,,LOW,APPROVE
+CUS141186,Svetlana Park,Saudi Arabia,21-05-1948,Female,"294 Park Lane, Mecca, Saudi Arabia",ND7708655,Business,09-04-2024,Low,None,71,None,,,LOW,APPROVE
+CUS141187,Emmanuel Martinez,Turkey,07-10-1988,Male,"620 Oak Way, Istanbul, Turkey",AJ2557489,Individual,29-01-2024,Low,None,70,None,,,LOW,APPROVE
+CUS141188,Sreten Lukioc,Pakistan,09-05-1970,Female,"117 King Boulevard, Islamabad, Pakistan",NQ3486044,Business,18-06-2016,High,"LUKIC, SRETEN",96,SANCTIONS,BALKANS,,CRITICAL,BLOCK - Manual Review Required
+CUS141189,Sueshil Kumar Modi,India,12-11-1952,Male,"677 King Road, Delhi, India",KB8953955,Individual,12-01-2024,High,None,67,None,,,LOW,APPROVE
+CUS141190,Rania Chen,Malaysia,18-04-1968,Female,"45 Green Boulevard, Penang, Malaysia",BN0346590,Individual,24-11-2021,Medium,None,74,None,,,LOW,APPROVE
+CUS141191,Dmitri Chen,Mexico,13-07-1981,Male,"855 Central Drive, Monterrey, Mexico",IY9204524,Individual,30-09-2024,Low,None,71,None,,,LOW,APPROVE
+CUS141192,James Bakshi,Ethiopia,01-06-1967,Male,"613 River Avenue, Mekelle, Ethiopia",LM0377859,Individual,05-08-2022,Low,None,67,None,,,LOW,APPROVE
+CUS141193,Yasmin Ito,France,06-03-1957,Female,"1 Queen Avenue, Bordeaux, France",VM6936591,Business,10-07-2023,Low,None,64,None,,,LOW,APPROVE
+CUS141194,Carlos Nguyen,China,14-09-1954,Male,"697 Park Boulevard, Shanghai, China",JZ9557124,Individual,30-03-2016,Low,None,58,None,,,LOW,APPROVE
+CUS141195,Ivan Park,India,27-11-1970,Male,"278 Hill Street, Bangalore, India",VX7887933,Individual,26-12-2023,Low,IRAN PARAK,84,SANCTIONS,"IRAN, NPWMD, IFSR",,HIGH,REVIEW - Secondary Check
+CUS141196,Larissa Johnson,Turkey,06-01-1955,Female,"318 Hill Street, Izmir, Turkey",TD5143551,Individual,29-06-2022,Low,None,62,None,,,LOW,APPROVE
+CUS141197,Miriam Chen,Canada,20-10-1977,Female,"792 Main Avenue, Vancouver, Canada",PB3261345,Individual,25-07-2021,Low,None,70,None,,,LOW,APPROVE
+CUS141198,Ivan Andersen,Canada,02-11-1983,Male,"382 Lake Road, Toronto, Canada",WO8379530,Individual,02-08-2024,Medium,None,70,None,,,LOW,APPROVE
+CUS141199,Kwame Garcia,France,15-08-1999,Male,"776 Central Court, Marseille, France",ZU7671048,Individual,16-11-2020,Low,None,67,None,,,LOW,APPROVE
+CUS141200,Amina Tanaka,Germany,02-09-1968,Female,"238 Central Avenue, Frankfurt, Germany",KS2798550,Individual,19-06-2019,Low,None,67,None,,,LOW,APPROVE
